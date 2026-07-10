@@ -226,9 +226,10 @@ p.section-lead { color: var(--muted); max-width: 62ch; margin-bottom: 2rem; }
 .hero-text { max-width: 62ch; }
 .hero-banner {
   position: relative;
-  width: 100%;
-  margin: 2.8rem 0 0;
-  height: clamp(300px, 40vw, 520px);
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-top: 3rem;
+  height: clamp(420px, 68vh, 760px);
   overflow: hidden;
 }
 .hero-banner img {
