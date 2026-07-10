@@ -1,0 +1,8 @@
+
+# AZEVEDO 1999 A ERA DA INFORMACAO ECONOMIA SOCIEDADE E CULTURA VOL2 O PODER DA IDENTIDADE
+
+AZEVEDO 1999 A ERA DA INFORMACAO ECONOMIA SOCIEDADE E CULTURA VOL2 O PODER DA IDENTIDADE
+
+RODRIGO
+
+[https://seer.ufrgs.br/sociologias/article/view/6936/4210](https://www.google.com/url?q=https%3A%2F%2Fseer.ufrgs.br%2Fsociologias%2Farticle%2Fview%2F6936%2F4210&sa=D&sntz=1&usg=AOvVaw3MhW8auvWbuEJNM8RtuRyf) - -

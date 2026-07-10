@@ -1,0 +1,102 @@
+# slug|título|categoria|grupo
+# categorias: sobre, ensino, pratica, temas, pacientes, profissionais, ciencia, noticias, projetos, publicos
+para-pacientes|Pacientes e Comunidade|publicos|
+para-estudantes|Estudantes|publicos|
+para-pesquisadores|Pesquisadores|publicos|
+para-profissionais|Profissionais e Gestores|publicos|
+receita-simples|Receita Simples|projetos|
+prescreva-um-livro|Prescreva um Livro|projetos|
+boas-vindas|Boas-vindas|sobre|
+dr-estevao-rolim|Dr. Estêvão Rolim|sobre|
+equipe|Equipe|sobre|
+premios|Prêmios|sobre|
+icase-2026|ICASE 2026|sobre|
+historia-da-medicina|História da Medicina|sobre|
+planejamento-estrategico|Planejamento Estratégico|sobre|
+diagnostico-situacional|Diagnóstico Situacional|sobre|
+painel-de-bordo|Painel de Bordo|sobre|
+agenda-2030-ods-3-saude|Agenda 2030 — ODS 3 Saúde|sobre|
+unb-med5-sfc2|UnB MED5 — SFC 2|ensino|
+unb-med9-internato-1|UnB MED9 — Internato 1|ensino|
+unb-med12-internato-2|UnB MED12 — Internato 2|ensino|
+liga-mfc-unb|Liga MFC UnB|ensino|
+bolsas|Bolsas|ensino|
+estudo|Estudo por Questões|ensino|
+oficinas|Oficinas|ensino|
+ses-treinamento-mfc|SES — Treinamento MFC|ensino|
+gpt-aquarelas-para-casos-clinicos|GPT Aquarelas para Casos Clínicos|ensino|
+simulacoes|Simulações|pratica|
+testes|Testes|pratica|
+dcnts|Doenças Crônicas Não Transmissíveis (DCNTs)|temas|Doenças crônicas
+hipertensao|Hipertensão|temas|Doenças crônicas
+diabetes|Diabetes|temas|Doenças crônicas
+dislipidemia|Dislipidemia|temas|Doenças crônicas
+endocrino-hipotireoidismo|Hipotireoidismo|temas|Doenças crônicas
+dor-cronica|Dor Crônica|temas|Doenças crônicas
+tabagismo-na-aps|Tabagismo na APS|temas|Doenças crônicas
+cardio-insuficiencia-cardiaca|Insuficiência Cardíaca|temas|Doenças crônicas
+cardio-infarto-do-miocardio|Infarto do Miocárdio|temas|Doenças crônicas
+neuro-ave-derrame|AVE (Derrame)|temas|Doenças crônicas
+asma|Asma|temas|Doenças crônicas
+pre-natal-geral|Pré-natal Geral|temas|Saúde da mulher e pré-natal
+pre-natal-diabetes-gestacional|Pré-natal — Diabetes Gestacional|temas|Saúde da mulher e pré-natal
+pre-natal-hipertensao-dheg|Pré-natal — Hipertensão e DHEG|temas|Saúde da mulher e pré-natal
+contracepcao|Contracepção|temas|Saúde da mulher e pré-natal
+diu|DIU|temas|Saúde da mulher e pré-natal
+amamentacao|Amamentação|temas|Saúde da mulher e pré-natal
+medicamentos-e-aleitamento|Medicamentos e Aleitamento|temas|Saúde da mulher e pré-natal
+psicose-na-aps|Psicoses na APS|temas|Saúde mental e bem-estar
+insonia|Insônia|temas|Saúde mental e bem-estar
+somatizacao|Somatização|temas|Saúde mental e bem-estar
+comunicacao-nao-violenta|Comunicação Não Violenta|temas|Saúde mental e bem-estar
+adolescentes|Adolescentes|temas|Saúde mental e bem-estar
+assedio-sexual|Assédio Sexual|temas|Saúde mental e bem-estar
+dengue|Dengue|temas|Infecções e urgências
+corona-influenza-dengue|Corona, Influenza e Dengue|temas|Infecções e urgências
+ivas-covid|IVAS e COVID|temas|Infecções e urgências
+caxumba|Caxumba|temas|Infecções e urgências
+escabiose|Escabiose|temas|Infecções e urgências
+otite-externa|Otite Externa|temas|Infecções e urgências
+picada-aranha-marrom|Picada de Aranha-Marrom|temas|Infecções e urgências
+cirurgia-abdome-agudo|Abdome Agudo|temas|Infecções e urgências
+sindrome-de-guillain-barre|Síndrome de Guillain-Barré|temas|Infecções e urgências
+demanda-espontanea-geral-e-inespecifico|Demanda Espontânea — Geral e Inespecífico|temas|Infecções e urgências
+rinite-alergica|Rinite Alérgica|temas|Outros temas
+lavagem-nasal|Lavagem Nasal|temas|Outros temas
+otorrino-cinetose|Cinetose|temas|Outros temas
+dermato-acne|Acne|temas|Outros temas
+geriatria-queda-idoso|Geriatria — Queda do Idoso|temas|Outros temas
+sindrome-do-tunel-do-carpo|Síndrome do Túnel do Carpo|temas|Outros temas
+alimentacao|Alimentação|temas|Outros temas
+terapia-neural|Terapia Neural|temas|Outros temas
+vigilancia-em-saude|Vigilância em Saúde|temas|Outros temas
+youtube|Canal no YouTube|pacientes|
+impressos-de-educacao-em-saude|Impressos de Educação em Saúde|pacientes|
+videos-de-saude-nas-midias-sociais|Vídeos de Saúde nas Mídias Sociais|pacientes|
+roteiros-de-videos-de-educacao-em-saude|Roteiros de Vídeos de Educação em Saúde|pacientes|
+escola-saudavel|Escola Saudável|pacientes|
+calcada-de-versos-e-conselhos|Calçada de Versos e Conselhos|pacientes|
+pra-ouvir-e-refletir-podcasts|Pra Ouvir e Refletir — Podcasts|pacientes|
+pra-rir-e-refletir-videos-porta-dos-fundos|Pra Rir e Refletir — Vídeos|pacientes|
+profissionais|Conteúdo Técnico|profissionais|
+profissionais-atendimento|Pasta de Atendimento|profissionais|
+profissionais-formulas|Fórmulas|profissionais|
+pack-brasil|PACK Brasil|profissionais|
+telessaude|Telessaúde|profissionais|
+referencia-e-contrarreferencia|Referência e Contrarreferência|profissionais|
+z-abordagem-familiar-na-aps|Abordagem Familiar na APS|profissionais|
+z-sistema-esus|Sistema e-SUS|profissionais|
+z-ses-df|SES-DF|profissionais|
+z-ses-gestao-admc|SES — Gestão ADMC|profissionais|
+z-ses-regulacao-sisreg|Regulação — SISREG|profissionais|
+z-ses-pse|Programa Saúde na Escola (PSE)|profissionais|
+publicacoes|Publicações|ciencia|
+congressos|Congressos|ciencia|
+ciencia-banco-de-citacoes|Banco de Citações|ciencia|
+ciencia-onde-buscar-referencias|Onde Buscar Referências|ciencia|
+ciencia-qualis-saude-coletiva|Qualis Saúde Coletiva|ciencia|
+cbpr-pesquisa-participativa-baseada-na-comunidade|Pesquisa Participativa (CBPR)|ciencia|
+rayyan-revisao-de-literatura|Rayyan — Revisão de Literatura|ciencia|
+elegis|eLegis|ciencia|
+noticias|Notícias|noticias|
+reportagens|Reportagens|noticias|

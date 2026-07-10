@@ -1,0 +1,6 @@
+
+# PIMENTEL 2011 CARACTERIZACAO DA DEMANDA EM UMA UNIDADE DE SAUDE DA FAMILIA
+
+PIMENTEL 2011 CARACTERIZACAO DA DEMANDA EM UMA UNIDADE DE SAUDE DA FAMILIA
+
+[https://docs.google.com/document/d/1lQkRleGizvdsdaXEKQF-qbzjcuJaHEAz4BBNTYxgA5Y/edit](https://docs.google.com/document/d/1lQkRleGizvdsdaXEKQF-qbzjcuJaHEAz4BBNTYxgA5Y/edit)
