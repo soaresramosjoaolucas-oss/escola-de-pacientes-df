@@ -223,11 +223,12 @@ p.section-lead { color: var(--muted); max-width: 62ch; margin-bottom: 2rem; }
   border-bottom: 1px solid var(--line);
   padding: 5rem 0 4rem;
 }
-.hero-text { max-width: 62ch; }
+.hero-text { max-width: 60ch; margin: 0 auto; text-align: center; }
+.hero-text .lead { margin-left: auto; margin-right: auto; }
+.hero-text .audience-btns { justify-content: center; }
 .hero-banner {
   position: relative;
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
+  width: 100%;
   margin-top: 3rem;
   height: clamp(420px, 68vh, 760px);
   overflow: hidden;
@@ -247,7 +248,7 @@ p.section-lead { color: var(--muted); max-width: 62ch; margin-bottom: 2rem; }
 .hero h1 {
   font-size: clamp(2.2rem, 5vw, 3.4rem);
   font-weight: 600; line-height: 1.12; letter-spacing: -.01em;
-  max-width: 18ch;
+  max-width: 18ch; margin-inline: auto;
 }
 .hero .lead {
   font-size: 1.2rem; color: var(--muted); max-width: 56ch; margin: 1.2rem 0 2rem;
