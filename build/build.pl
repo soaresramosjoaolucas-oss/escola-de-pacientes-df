@@ -282,10 +282,6 @@ sub header_html {
     my $home = $p eq '' ? './' : $p;
     my $nav = nav_html($p, $cat);
     return <<HTML;
-<div class="topbar"><div class="topbar-inner">
-<span>Ensino · Serviço · Comunidade — desde 2016</span>
-<span><a href="https://www.youtube.com/channel/UCMiHRdmhduWggK_c-UYEbLQ" target="_blank" rel="noopener">YouTube</a> · <a href="${p}publicacoes/">Publicações</a> · <a href="${p}equipe/">Equipe</a></span>
-</div></div>
 <header class="site">
 <div class="header-inner">
 <a class="brand" href="$home">
@@ -369,7 +365,7 @@ sub page_shell {
 <meta name="description" content="$a{desc}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght\@0,400..700;1,400..700&family=Source+Sans+3:ital,wght\@0,300..700;1,300..700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght\@0,14..32,400..800;1,14..32,400..800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="$a{p}assets/style.css">
 <link rel="icon" href="$a{p}assets/img/logo.png">
 $head_extra
@@ -380,6 +376,7 @@ $a{body}
 $a{footer}
 <script src="$a{p}assets/search-index.js" defer></script>
 <script src="$a{p}assets/search.js" defer></script>
+<script src="$a{p}assets/reveal.js" defer></script>
 </body>
 </html>
 HTML
