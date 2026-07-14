@@ -465,6 +465,14 @@ article.content li::marker { color: #c7c7cc; }
 .portal .go { display: inline-block; margin-top: .9rem; font-size: .86rem; font-weight: 600; color: var(--accent); transition: transform .18s var(--ease); }
 .portal:hover .go { transform: translateX(4px); }
 
+/* ---------- Cores por público (paleta Notion) ---------- */
+:root {
+  --n-verde: #448361;   --n-verde-bg: #edf3ec;   --n-verde-dark: #397052;
+  --n-azul: #337ea9;    --n-azul-bg: #e7f3f8;    --n-azul-dark: #2a6b90;
+  --n-roxo: #9065b0;    --n-roxo-bg: #f6f3f9;    --n-roxo-dark: #7d549c;
+  --n-laranja: #d9730d; --n-laranja-bg: #faebdd; --n-laranja-dark: #bc620a;
+}
+
 /* botões de público no hero */
 .audience-btns { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: 1.7rem; }
 .audience-btns a {
@@ -472,9 +480,32 @@ article.content li::marker { color: #c7c7cc; }
   padding: .6rem 1.15rem; border-radius: 999px;
   background: #fff; border: 1px solid #d2d2d7;
   font-size: .88rem; font-weight: 500; color: var(--ink); text-decoration: none !important;
-  transition: background .15s var(--ease), border-color .15s var(--ease), transform .15s var(--ease);
+  transition: background .18s var(--ease), border-color .18s var(--ease), color .18s var(--ease), transform .18s var(--ease);
 }
-.audience-btns a:hover { background: var(--bg-soft); border-color: #b9b9c0; transform: translateY(-1px); }
+.audience-btns a:hover { transform: translateY(-1px); }
+.audience-btns a.aud-verde:hover   { background: var(--n-verde-bg);   border-color: var(--n-verde);   color: var(--n-verde-dark); }
+.audience-btns a.aud-azul:hover    { background: var(--n-azul-bg);    border-color: var(--n-azul);    color: var(--n-azul-dark); }
+.audience-btns a.aud-roxo:hover    { background: var(--n-roxo-bg);    border-color: var(--n-roxo);    color: var(--n-roxo-dark); }
+.audience-btns a.aud-laranja:hover { background: var(--n-laranja-bg); border-color: var(--n-laranja); color: var(--n-laranja-dark); }
+
+/* cards-portal na landing acompanham as cores */
+.portal.aud-verde:hover   { box-shadow: 0 8px 30px rgba(68, 131, 97, .22); }
+.portal.aud-azul:hover    { box-shadow: 0 8px 30px rgba(51, 126, 169, .22); }
+.portal.aud-roxo:hover    { box-shadow: 0 8px 30px rgba(144, 101, 176, .22); }
+.portal.aud-laranja:hover { box-shadow: 0 8px 30px rgba(217, 115, 13, .22); }
+.portal.aud-verde .go   { color: var(--n-verde); }
+.portal.aud-azul .go    { color: var(--n-azul); }
+.portal.aud-roxo .go    { color: var(--n-roxo); }
+.portal.aud-laranja .go { color: var(--n-laranja); }
+
+/* temas de página por público: sobrescrevem a cor de ação */
+body.theme-verde   { --accent: var(--n-verde);   --accent-dark: var(--n-verde-dark);   --tint: var(--n-verde-bg); }
+body.theme-azul    { --accent: var(--n-azul);    --accent-dark: var(--n-azul-dark);    --tint: var(--n-azul-bg); }
+body.theme-roxo    { --accent: var(--n-roxo);    --accent-dark: var(--n-roxo-dark);    --tint: var(--n-roxo-bg); }
+body.theme-laranja { --accent: var(--n-laranja); --accent-dark: var(--n-laranja-dark); --tint: var(--n-laranja-bg); }
+body[class*="theme-"] .page-hero { background: var(--tint); }
+body[class*="theme-"] .childlist a:hover { background: var(--tint); }
+body[class*="theme-"] .topic-grid a:hover { background: var(--tint); box-shadow: none; }
 
 /* mockup da Receita Simples */
 .rx-mock {

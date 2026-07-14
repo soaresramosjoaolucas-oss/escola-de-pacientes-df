@@ -355,6 +355,7 @@ HTML
 sub page_shell {
     my (%a) = @_;
     my $head_extra = $a{head_extra} // '';
+    my $body_class = $a{body_class} ? qq{ class="$a{body_class}"} : '';
     return <<HTML;
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -370,7 +371,7 @@ sub page_shell {
 <link rel="icon" href="$a{p}assets/img/logo.png">
 $head_extra
 </head>
-<body>
+<body$body_class>
 $a{header}
 $a{body}
 $a{footer}
@@ -454,6 +455,14 @@ $body_html
 </div></article>
 HTML
 
+    # tema de cor por público (paleta Notion)
+    my %tema = (
+        'para-pacientes'     => 'theme-verde',
+        'para-estudantes'    => 'theme-azul',
+        'para-pesquisadores' => 'theme-roxo',
+        'para-profissionais' => 'theme-laranja',
+    );
+
     write_file("$OUT/$path/index.html", page_shell(
         title  => esc($title) . " — $SITE",
         desc   => esc($title) . " — material da $SITE: educação em saúde, educação permanente e formação em saúde.",
@@ -461,6 +470,7 @@ HTML
         header => header_html($p, $top),
         body   => $body,
         footer => footer_html($p),
+        body_class => $tema{$path} // '',
     ));
     $n++;
 }
