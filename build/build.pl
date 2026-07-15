@@ -165,10 +165,48 @@ sub embed_html {
         return qq{<figure class="embed embed-doc"><iframe src="$src" title="$l" loading="lazy"></iframe><figcaption class="embed-caption"><span>$l</span><a href="$view" target="_blank" rel="noopener">Abrir o documento ↗</a></figcaption></figure>};
     }
     if ($url =~ m{docs\.google\.com/forms|forms\.gle}) {
-        return qq{<p><a href="$url" target="_blank" rel="noopener">📝 $l (formulário)</a></p>};
+        return qq{<a class="link-card" href="$url" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>$l</b><small>formulário</small></span><span class="lc-arrow">→</span></a>};
     }
     # iframe genérico só com link
     return qq{<p><a href="$url" target="_blank" rel="noopener">$l ↗</a></p>};
+}
+
+sub host_of {
+    my ($u) = @_;
+    return '' unless $u =~ m{^https?://([^/]+)};
+    (my $h = $1) =~ s/^www\.//;
+    return $h;
+}
+
+sub link_icon {
+    my ($u) = @_;
+    return '📝' if $u =~ m{forms\.gle|docs\.google\.com/forms};
+    return '▶️' if $u =~ m{youtube\.com|youtu\.be|globoplay|tvbrasil|video};
+    return '🤖' if $u =~ m{chatgpt\.com|chat\.openai};
+    return '📄' if $u =~ m{drive\.google|docs\.google|\.pdf};
+    return '🔗';
+}
+
+# linha composta apenas por um link (ou rótulo + link) -> card clicável
+sub link_card_html {
+    my ($l, $p) = @_;
+    my ($label, $text, $url);
+    if    ($l =~ /^\[([^\]]+)\]\((\S+)\)\s*[-–—:.]?\s*$/)                    { ($text, $url) = ($1, $2); }
+    elsif ($l =~ /^([^\[\]]{2,80}?)\s*[:\-–—]\s*\[([^\]]*)\]\((\S+)\)\s*$/) { ($label, $text, $url) = ($1, $2, $3); }
+    elsif ($l =~ /^([^\[\]]{2,80}?)\s*[:\-–—]\s*(https?:\/\/\S+)\s*$/)      { ($label, $url) = ($1, $2); $text = ''; }
+    else { return; }
+    my $href = clean_url($url, $p);
+    my $ext = $href =~ m{^https?://} ? ' target="_blank" rel="noopener"' : '';
+    # escolhe o melhor título disponível (evita URLs cruas e "clique aqui")
+    my $title = (defined $text && $text ne '' && $text !~ m{^https?://}) ? $text : (defined $label ? $label : '');
+    $title = host_of($url) if $title eq '' or $title =~ m{^https?://};
+    $title = $label if defined $label && $title =~ /^(clique aqui|aqui|link|acesse|ver)\.?$/i;
+    $title =~ s/\s+/ /g; $title =~ s/^\s+|\s+$//g;
+    $title = host_of($url) || 'Abrir link' if $title eq '';
+    $title = substr($title, 0, 110) . '…' if length($title) > 112;
+    my $sub  = $href =~ m{^https?://} ? host_of($href) : 'página do site';
+    my $icon = $href =~ m{^https?://} ? link_icon($href) : '📄';
+    return qq{<a class="link-card" href="$href"$ext><span class="lc-ico">$icon</span><span class="lc-body"><b>@{[esc($title)]}</b><small>$sub</small></span><span class="lc-arrow">→</span></a>};
 }
 
 sub inline_fmt {
@@ -193,8 +231,18 @@ sub inline_fmt {
 sub md_to_html {
     my ($md, $p) = @_;
     my @lines = split /\n/, $md;
-    my (@html, $inlist, $last_embed_label);
+    my (@html, $inlist, $ingrid, $last_embed_label, %seen);
     my $first_h1 = 0;
+    my $close_blocks = sub {
+        push @html, '</ul>'  and $inlist = 0 if $inlist;
+        push @html, '</div>' and $ingrid = 0 if $ingrid;
+    };
+    my $dup = sub {
+        my ($t) = @_;
+        (my $k = lc $t) =~ s/\W+//g;
+        return 0 if length($k) < 40;
+        return $seen{$k}++ ? 1 : 0;
+    };
     for (my $i = 0; $i <= $#lines; $i++) {
         my $l = $lines[$i];
         $l =~ s/^\s+|\s+$//g;
@@ -208,7 +256,7 @@ sub md_to_html {
         # embed
         if ($l =~ /^\[EMBED:\s*(.*?)\]\((\S+)\)$/) {
             my ($label, $url) = ($1, $2);
-            push @html, '</ul>' and $inlist = 0 if $inlist;
+            $close_blocks->();
             # rótulo genérico: usa a próxima linha curta como legenda
             if ($label =~ /^(?:Drive Folder|Drive)?$/i) {
                 for (my $j = $i + 1; $j <= $#lines && $j <= $i + 2; $j++) {
@@ -232,16 +280,37 @@ sub md_to_html {
         }
         $last_embed_label = undef;
 
-        if ($l =~ /^##\s+(.+)/)  { push @html, '</ul>' and $inlist = 0 if $inlist; push @html, '<h2>' . inline_fmt($1, $p) . '</h2>'; next; }
-        if ($l =~ /^###+\s+(.+)/){ push @html, '</ul>' and $inlist = 0 if $inlist; push @html, '<h3>' . inline_fmt($1, $p) . '</h3>'; next; }
+        if ($l =~ /^##\s+(.+)/)  { $close_blocks->(); push @html, '<h2>' . inline_fmt($1, $p) . '</h2>'; next; }
+        if ($l =~ /^###+\s+(.+)/){ $close_blocks->(); push @html, '<h3>' . inline_fmt($1, $p) . '</h3>'; next; }
 
-        # item de lista
+        # item de lista (item que é só um link vira card)
         if ($l =~ /^-\s+(.+)/) {
+            my $item = $1;
+            my $icard = link_card_html($item, $p);
+            if ($icard) {
+                next if $dup->($item);
+                push @html, '</ul>' and $inlist = 0 if $inlist;
+                if (!$ingrid) { push @html, '<div class="link-grid">'; $ingrid = 1; }
+                push @html, $icard;
+                next;
+            }
+            push @html, '</div>' and $ingrid = 0 if $ingrid;
+            next if $dup->($item);
             push @html, '<ul>' unless $inlist; $inlist = 1;
-            push @html, '<li>' . inline_fmt($1, $p) . '</li>';
+            push @html, '<li>' . inline_fmt($item, $p) . '</li>';
             next;
         }
-        push @html, '</ul>' and $inlist = 0 if $inlist;
+
+        # linha que é apenas um link (ou rótulo + link) -> card clicável
+        my $card = link_card_html($l, $p);
+        if ($card) {
+            next if $dup->($l);
+            push @html, '</ul>' and $inlist = 0 if $inlist;
+            if (!$ingrid) { push @html, '<div class="link-grid">'; $ingrid = 1; }
+            push @html, $card;
+            next;
+        }
+        $close_blocks->();
 
         # linha toda em maiúsculas = subtítulo visual
         my $letters = () = $l =~ /\p{L}/g;
@@ -249,9 +318,11 @@ sub md_to_html {
             push @html, '<h3>' . inline_fmt($l, $p) . '</h3>';
             next;
         }
+        next if $dup->($l);
         push @html, '<p>' . inline_fmt($l, $p) . '</p>';
     }
     push @html, '</ul>' if $inlist;
+    push @html, '</div>' if $ingrid;
     return join "\n", @html;
 }
 

@@ -1,6 +1,14 @@
 
 # Equipe
 
+COMO O GRUPO SE ORGANIZA
+
+O grupo de pesquisa funciona com coordenação estudantil: um aluno de Medicina da UnB coordena as atividades, apoiado por supervisores estudantes que orientam os membros mais recentes. O Prof. Dr. Estêvão Cubas Rolim atua como orientador do grupo. Essa estrutura garante autonomia, formação de lideranças e continuidade das atividades entre gerações de alunos.
+
+Quer participar? Veja o portal de [Estudantes](/para-estudantes) e acompanhe as [notícias](/noticias) do grupo.
+
+ORIENTADOR
+
 Grupo de Pesquisa - Atualizado em 2026-Abril
 
 Estêvão Rolim

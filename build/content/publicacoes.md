@@ -52,8 +52,6 @@ Artigos
 -
 2023 ARTIGO: Mídias sociais e promoção da saúde: scoping review da aplicabilidade no autocuidado da hipertensão e diabetes; Estêvão Cubas Rolim, Brandon Vidal de Souza, Lucas Carvalho Souza Teles, Felipe Rodrigues Yung, Dayde Lane Mendonça da Silva, Dais Gonçalves Rocha; v.21, n.9, p.11353-11370, Revista Observatorio de la Economía Latinoamericana; ISSN 1696-8352; https://revistaeconomialatinoamericana.com/ojs/index.php/oel/article/view/46; DOI: [https://doi.org/10.55905/oelv21n9-046](https://doi.org/10.55905/oelv21n9-046) 
 
--
-2023 ARTIGO: Desenvolvimento e validação de modelo visual de receituário adaptado às necessidades da população com doenças crônicas – Receita Simples; Estêvão Cubas Rolim, Felipe Rodrigues Yung, Dais Gonçalves Rocha, Rodrigo Fonseca Lima, Rafael Santos Santana, Dayde Lane Mendonça da Silva; v.21, n.11, p.19217-19243, Revista Observatorio de la Economía Latinoamericana; ISSN 1696-8352;; https://revistaeconomialatinoamericana.com/ojs/index.php/oel/article/view/35; DOI: https://doi.org/10.55905/oelv21n11-035
 
 -
 2021 ARTIGO: Atendimento ATO ZAP Pressão assistencial em tempos de COVID 19 Considerações sobre o Atendimento Online via WhatsApp ATO ZAP Escola de Pacientes DF;  Estêvão Cubas Rolim, Brandon Vidal de Souza, Lucas Carvalho Souza Teles, Luana Guimarães de Moura, Gabriel Raimundo de Oliveira Silva, Diego Torres Silva, André Luís Moreira Seródio Luiza Valle de Oliveira Brízida, Marina Coleta Drago;  v 7 n 9 p 92930 92947 Brazilian Journal of Development ISSN 2525-8761 CAPES 2019 B2, [https://www.brazilianjournals.com/index.php/BRJD/article/view/36479](https://www.brazilianjournals.com/index.php/BRJD/article/view/36479)  , DOI: [https://doi.org/10.34117/bjdv7n9-454](https://doi.org/10.34117/bjdv7n9-454) 
