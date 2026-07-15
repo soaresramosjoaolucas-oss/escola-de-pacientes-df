@@ -12,3 +12,8 @@ Mowafa
 efits, tecnologia
 
 " [https://docs.google.com/document/d/1Vk2FY3jD8C3lLYx0V4rSZi4xHTbz_x0KumkszZ_YurM/edit](https://docs.google.com/document/d/1Vk2FY3jD8C3lLYx0V4rSZi4xHTbz_x0KumkszZ_YurM/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://pubmed.ncbi.nlm.nih.gov/24550564/](https://pubmed.ncbi.nlm.nih.gov/24550564/)
+

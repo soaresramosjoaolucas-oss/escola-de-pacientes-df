@@ -10,3 +10,8 @@ CONRADO
 pesquisa qualitativa; pesquisa on­line; Internet
 
 [https://docs.google.com/document/d/1VSaqsT-BnQ0NDLtsQV4pv2nG1Nj2sVkSVB2Qe3Rkv7Y/edit](https://docs.google.com/document/d/1VSaqsT-BnQ0NDLtsQV4pv2nG1Nj2sVkSVB2Qe3Rkv7Y/edit).
+
+ACESSAR A PUBLICAÇÃO
+
+[https://periodicos.ufpe.br/revistas/hipertextus/issue/view/3056](https://periodicos.ufpe.br/revistas/hipertextus/issue/view/3056)
+

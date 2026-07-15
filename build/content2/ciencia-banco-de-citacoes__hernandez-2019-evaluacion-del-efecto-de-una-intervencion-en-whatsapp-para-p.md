@@ -10,3 +10,8 @@ Antonia
 hipertensão; telemedicina; estilo de vida; adesão e adesão ao tratamento.
 
 [https://docs.google.com/document/d/19xPK5VtqhOIYVLNz9FyOjcsu577Nof8ynHuaCNZsl_w/edit](https://docs.google.com/document/d/19xPK5VtqhOIYVLNz9FyOjcsu577Nof8ynHuaCNZsl_w/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://revistas.unc.edu.ar/index.php/RSD/article/view/20610](https://revistas.unc.edu.ar/index.php/RSD/article/view/20610)
+

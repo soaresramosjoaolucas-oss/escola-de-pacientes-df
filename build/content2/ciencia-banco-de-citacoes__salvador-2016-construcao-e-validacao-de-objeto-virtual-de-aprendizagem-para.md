@@ -4,3 +4,8 @@
 SALVADOR 2016 CONSTRUCAO E VALIDACAO DE OBJETO VIRTUAL DE APRENDIZAGEM PARA APOIO AO ENSINO DA SISTEMATIZACAO DA ASSISTENCIA DE ENFERMAGEM AOS TECNICOS EM ENFERMAGEM.pdf Pétala [https://repositorio.ufrn.br/handle/123456789/21954](https://www.google.com/url?q=https%3A%2F%2Frepositorio.ufrn.br%2Fhandle%2F123456789%2F21954&sa=D&sntz=1&usg=AOvVaw0yY9ZR9v0qGcmDbyiIbL8y)
 
 [https://docs.google.com/document/d/1f4c0TaqQUGrx9Ouw_8HxuEaJ3kYGTXhPV-XomW3WrRI/edit](https://docs.google.com/document/d/1f4c0TaqQUGrx9Ouw_8HxuEaJ3kYGTXhPV-XomW3WrRI/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://repositorio.ufrn.br/handle/123456789/21954](https://repositorio.ufrn.br/handle/123456789/21954)
+

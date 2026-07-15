@@ -10,3 +10,8 @@ TAMARA
 -
 
 [https://docs.google.com/document/d/1zUVy30xsm_Js1-q9UdpWtKxSfIpt1kpOvdUQlEA6kYw/edit](https://docs.google.com/document/d/1zUVy30xsm_Js1-q9UdpWtKxSfIpt1kpOvdUQlEA6kYw/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://fammedarchives.blob.core.windows.net/imagesandpdfs/fmhub/fm2005/January/Tamara30.pdf](https://fammedarchives.blob.core.windows.net/imagesandpdfs/fmhub/fm2005/January/Tamara30.pdf)
+

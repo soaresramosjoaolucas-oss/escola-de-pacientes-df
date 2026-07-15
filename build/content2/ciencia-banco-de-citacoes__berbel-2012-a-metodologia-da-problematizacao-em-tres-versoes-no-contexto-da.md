@@ -8,3 +8,8 @@ NEUSI [https://www.redalyc.org/pdf/1891/189123706006.pdf](https://www.google.com
 "Metodologia da Problematização. Arco de Maguerez. Didática. Formação
 
 de professores." [https://docs.google.com/document/d/10096udFEgXvF-s9BRPR03wBdgxEro269-OjKbdB0r3U/edit](https://docs.google.com/document/d/10096udFEgXvF-s9BRPR03wBdgxEro269-OjKbdB0r3U/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.redalyc.org/pdf/1891/189123706006.pdf](https://www.redalyc.org/pdf/1891/189123706006.pdf)
+

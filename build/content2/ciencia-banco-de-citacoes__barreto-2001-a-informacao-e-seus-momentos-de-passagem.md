@@ -10,3 +10,8 @@ ALDO
 Criação da Informação. Contexto da Informação. Gerenciamento da Informação. Agente Inteligente. Análise Textual. Ciência da Informação.
 
 [https://docs.google.com/document/d/19MfC7rzWFT_xhPzEacZV_cfeqHBxN-lhvDiQ5hMRwqw/edit](https://docs.google.com/document/d/19MfC7rzWFT_xhPzEacZV_cfeqHBxN-lhvDiQ5hMRwqw/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://brapci.inf.br/index.php/res/v/6858](https://brapci.inf.br/index.php/res/v/6858)
+

@@ -10,3 +10,8 @@ MOURAD
 Campo da educação médica; política educacional nas redes de atenção à saúde; mudanças e teorias curriculares; métodos de ensino; humanização na formação médica.
 
 [https://docs.google.com/document/d/1lbHUoA7l__O8Y7CaYTZNqJvf7yCqyuwUlUZ2x4wAz0I/edit](https://docs.google.com/document/d/1lbHUoA7l__O8Y7CaYTZNqJvf7yCqyuwUlUZ2x4wAz0I/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://repositorio.unb.br/bitstream/10482/22548/3/2015_MouradIbrahimBelaciano.pdf](https://repositorio.unb.br/bitstream/10482/22548/3/2015_MouradIbrahimBelaciano.pdf)
+

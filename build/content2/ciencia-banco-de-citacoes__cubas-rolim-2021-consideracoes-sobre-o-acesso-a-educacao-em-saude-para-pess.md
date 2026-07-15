@@ -8,3 +8,8 @@ ESTEVAO [https://www.brazilianjournals.com/index.php/BRJD/article/view/35278/pdf
 Pessoas com Surdez,E-acessibilidade,Educação em saúde,Recursos audiovisuais,Mídias sociais
 
 [https://docs.google.com/document/d/1Y_GLicay6_KC1eQzykKJkGuyXh_KOkj1hPaCozpyhpY/edit](https://docs.google.com/document/d/1Y_GLicay6_KC1eQzykKJkGuyXh_KOkj1hPaCozpyhpY/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.brazilianjournals.com/index.php/BRJD/article/view/35278/pdf](https://www.brazilianjournals.com/index.php/BRJD/article/view/35278/pdf)
+

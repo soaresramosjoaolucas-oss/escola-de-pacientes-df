@@ -10,3 +10,8 @@ EDUARDO
 Comparativo; EndNote; Gerenciamento bibliográfico; Mendeley; Referências Bibliográficas; Zotero
 
 [https://docs.google.com/document/d/1g-YHlbv5y0RK4qthB4xkA34AsLmKssiNvJp1DB3Z29E/edit](https://docs.google.com/document/d/1g-YHlbv5y0RK4qthB4xkA34AsLmKssiNvJp1DB3Z29E/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/tinf/a/YCXRcdqjP6gGccddwgzwnCK/?lang=pt](https://www.scielo.br/j/tinf/a/YCXRcdqjP6gGccddwgzwnCK/?lang=pt)
+

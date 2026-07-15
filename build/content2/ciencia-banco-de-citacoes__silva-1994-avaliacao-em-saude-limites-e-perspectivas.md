@@ -10,3 +10,8 @@ Ligia
 Avaliação; Qualidade; Investigação em Serviços de Saúde
 
 [https://docs.google.com/document/d/1V9upPms0D1X2WVGf4paY-w80ktXo1YyI0XcSWXssBYM/edit](https://docs.google.com/document/d/1V9upPms0D1X2WVGf4paY-w80ktXo1YyI0XcSWXssBYM/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X1994000100009&lng=en&nrm=iso&tlng=pt](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X1994000100009&lng=en&nrm=iso&tlng=pt)
+

@@ -171,6 +171,17 @@ sub embed_html {
     return qq{<p><a href="$url" target="_blank" rel="noopener">$l ↗</a></p>};
 }
 
+# chave canônica de um embed (dedupe por conteúdo, não por URL literal)
+sub embed_key {
+    my ($u) = @_;
+    return "yt:$1" if $u =~ m{youtube\.com/embed/([\w-]+)};
+    return "dr:$1" if $u =~ m{drive\.google\.com/file/d/([\w-]+)};
+    return "fo:$1" if $u =~ m{embeddedfolderview\?id=([\w-]+)};
+    return "dc:$1" if $u =~ m{docs\.google\.com/\w+/d/([\w-]+)};
+    (my $k = $u) =~ s/\?.*$//;
+    return $k;
+}
+
 sub host_of {
     my ($u) = @_;
     return '' unless $u =~ m{^https?://([^/]+)};
@@ -231,7 +242,8 @@ sub inline_fmt {
 sub md_to_html {
     my ($md, $p) = @_;
     my @lines = split /\n/, $md;
-    my (@html, $inlist, $ingrid, $last_embed_label, %seen);
+    my (@html, $inlist, $ingrid, $last_embed_label, %seen, %eseen, %cseen);
+    my $title_key = '';
     my $first_h1 = 0;
     my $close_blocks = sub {
         push @html, '</ul>'  and $inlist = 0 if $inlist;
@@ -251,11 +263,21 @@ sub md_to_html {
         # "-" sozinho: item de lista cujo texto vem na próxima linha
         if ($l eq '-') { next; }
         # primeira h1 = título da página (já no hero)
-        if ($l =~ /^#\s+/ && !$first_h1) { $first_h1 = 1; next; }
+        if ($l =~ /^#\s+(.+)/ && !$first_h1) {
+            $first_h1 = 1;
+            ($title_key = lc $1) =~ s/\W+//g;
+            next;
+        }
+        # não repete o título da página como texto do corpo
+        if ($title_key) {
+            (my $tk = lc $l) =~ s/\W+//g;
+            next if $tk eq $title_key;
+        }
 
         # embed
         if ($l =~ /^\[EMBED:\s*(.*?)\]\((\S+)\)$/) {
             my ($label, $url) = ($1, $2);
+            next if $eseen{ embed_key($url) }++;
             $close_blocks->();
             # rótulo genérico: usa a próxima linha curta como legenda
             if ($label =~ /^(?:Drive Folder|Drive)?$/i) {
@@ -288,7 +310,8 @@ sub md_to_html {
             my $item = $1;
             my $icard = link_card_html($item, $p);
             if ($icard) {
-                next if $dup->($item);
+                my ($h) = $icard =~ /href="([^"]+)"/;
+                next if $dup->($item) or $cseen{$h}++;
                 push @html, '</ul>' and $inlist = 0 if $inlist;
                 if (!$ingrid) { push @html, '<div class="link-grid">'; $ingrid = 1; }
                 push @html, $icard;
@@ -304,7 +327,8 @@ sub md_to_html {
         # linha que é apenas um link (ou rótulo + link) -> card clicável
         my $card = link_card_html($l, $p);
         if ($card) {
-            next if $dup->($l);
+            my ($h) = $card =~ /href="([^"]+)"/;
+            next if $dup->($l) or $cseen{$h}++;
             push @html, '</ul>' and $inlist = 0 if $inlist;
             if (!$ingrid) { push @html, '<div class="link-grid">'; $ingrid = 1; }
             push @html, $card;
@@ -323,7 +347,16 @@ sub md_to_html {
     }
     push @html, '</ul>' if $inlist;
     push @html, '</div>' if $ingrid;
-    return join "\n", @html;
+    # remove subtítulos órfãos (h3 sem conteúdo até o próximo título ou o fim)
+    my @out;
+    for (my $k = 0; $k <= $#html; $k++) {
+        if ($html[$k] =~ /^<h3>/) {
+            my $nx = $k + 1 <= $#html ? $html[$k + 1] : '';
+            next if $nx eq '' or $nx =~ /^<h[23]>/;
+        }
+        push @out, $html[$k];
+    }
+    return join "\n", @out;
 }
 
 # ---------------- navegação ----------------

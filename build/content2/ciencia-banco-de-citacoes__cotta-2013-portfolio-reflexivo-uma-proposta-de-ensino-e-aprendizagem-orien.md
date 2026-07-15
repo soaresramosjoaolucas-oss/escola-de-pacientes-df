@@ -6,3 +6,8 @@ COTTA 2013 Portfolio reflexivo- uma proposta de ensino e aprendizagem orientada 
 Educação; Competência; Saúde pública
 
 [https://docs.google.com/document/d/1U4cBucGBGIyC88Wuf55lZOegZFODkeHn8i4ctG9rEgw/edit](https://docs.google.com/document/d/1U4cBucGBGIyC88Wuf55lZOegZFODkeHn8i4ctG9rEgw/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/csc/a/PjrxJcRbF7ZdfgNKt8N9THt/abstract/?lang=pt](https://www.scielo.br/j/csc/a/PjrxJcRbF7ZdfgNKt8N9THt/abstract/?lang=pt)
+

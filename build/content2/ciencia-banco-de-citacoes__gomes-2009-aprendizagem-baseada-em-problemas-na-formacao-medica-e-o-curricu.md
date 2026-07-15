@@ -8,3 +8,8 @@ ROMEU [https://www.scielo.br/j/rbem/a/Scz3tZ5YprqM7MpH5dFxxzd/?format=pdf&lang=p
 Aprendizagem Baseada em Problemas, Educação médica/métodos, Educação de graduação em medicina
 
 [https://docs.google.com/document/d/18ZF-aLEGtnG4oiPoqxp60RP67gjbmLBwX5RB3LJdMec/edit](https://docs.google.com/document/d/18ZF-aLEGtnG4oiPoqxp60RP67gjbmLBwX5RB3LJdMec/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/rbem/a/Scz3tZ5YprqM7MpH5dFxxzd/?format=pdf&lang=pt](https://www.scielo.br/j/rbem/a/Scz3tZ5YprqM7MpH5dFxxzd/?format=pdf&lang=pt)
+

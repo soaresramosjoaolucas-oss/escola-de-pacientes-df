@@ -10,3 +10,8 @@ JAIR
 Educação; Andragogia; Aprendizagem de adultos; Aprender-fazendo.
 
 [https://docs.google.com/document/d/1wsYP8eYdzVmVLX2UBGhftQFpSFgvpM1pxS8UJh3bq8E/edit](https://docs.google.com/document/d/1wsYP8eYdzVmVLX2UBGhftQFpSFgvpM1pxS8UJh3bq8E/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://periodicos.uff.br/ensinosaudeambiente/article/view/21105](https://periodicos.uff.br/ensinosaudeambiente/article/view/21105)
+

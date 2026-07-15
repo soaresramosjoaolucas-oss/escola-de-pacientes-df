@@ -10,3 +10,8 @@ MARIA TEREZA
 Educação Médica. Docência. Aprendizagem Baseada em Problemas.
 
 [https://docs.google.com/document/d/1k2ypREQFZUUjK0UNeR8pEqy3QvldqLtf00QOKjoiYCk/edit](https://docs.google.com/document/d/1k2ypREQFZUUjK0UNeR8pEqy3QvldqLtf00QOKjoiYCk/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/rbem/a/cdKBP3HnpMHyMpqgK9wD9rR/abstract/?lang=pt](https://www.scielo.br/j/rbem/a/cdKBP3HnpMHyMpqgK9wD9rR/abstract/?lang=pt)
+

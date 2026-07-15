@@ -4,3 +4,695 @@
 Testes de fixação para estudo ativo, baseados em questões de provas reais — USP, UERJ, Revalida, prova de título de Medicina de Família e Comunidade (TEMFC) e casos do tratado Gusso (2019). Cada teste é um formulário online com correção automática, ideal para revisar os principais temas da Atenção Primária à Saúde.
 
 Escolha um teste no índice abaixo. Para praticar com casos clínicos interativos, veja também as [Simulações](/simulacoes) e o [Estudo por Questões](/estudo).
+
+TODOS OS TESTES
+
+- [Formulário](https://forms.gle/idqu8DqTv6VXMkT58)
+- [Formulário](https://forms.gle/2qAybisSVrRYTq2k9)
+- [Formulário](https://forms.gle/72MGJ1ewhZsoznn58)
+- [Formulário](https://forms.gle/piLZSvdFcnzb1ppbA)
+- [UERJ 2017 MÉTODO CLÍNICO CENTRADO NA PESSOA MCCP](https://forms.gle/qMQeJnbWJMd5BP6W6)
+- [UERJ 2018 SÍNDROME DOS OVÁRIOS POLICÍSTICOS SOP](https://forms.gle/QG37oe478CHz2nEh8)
+- [Formulário](https://forms.gle/eV6pSvYnYm18JFVo9)
+- [Formulário](https://forms.gle/b6jricrv6PJoz5SJ8)
+- [Formulário](https://forms.gle/5jDQ7wJiPaJhD1qRA)
+- [UERJ 2019 DOENÇA INFLAMATÓRIA PÉLVICA DIP](https://forms.gle/ZUqhzNVX3sTPXMmr8)
+- [UERJ 2019 ENDOCARDITE INFECCIOSA](https://forms.gle/ug3rR8pMdTEcdJiT6)
+- [UERJ 2019 PRÉ-ECLÂMPSIA](https://forms.gle/GJaGUSTpT6HVYHjUA)
+- [UERJ 2019 RISCO CARDIOVASCULAR](https://forms.gle/hAtZJsXDocjZj16TA)
+- [Formulário](https://forms.gle/97aL1RJukirgqRfo9)
+- [USP 2015 ABDOME AGUDO OBSTRUTIVO](https://forms.gle/94NRwgyW5MpNisNy8)
+- [USP 2015 DIABETES E INSUFICIÊNCIA CARDÍACA](https://forms.gle/UvUDsPbT1Ya5CxNu7)
+- [USP 2015 OTITE MÉDIA AGUDA](https://forms.gle/eASmaCYJe3ciBXrP7)
+- [Formulário](https://forms.gle/yckYc6UQj5UwtoJr8)
+- [USP 2016 DIABETES GESTACIONAL](https://forms.gle/NL2T3RuezyHeahjv9)
+- [Formulário](https://forms.gle/h5TkgL4gQ6UdJgdy5)
+- [USP 2016 PEDIATRIA CD RN](https://forms.gle/HuxkrbqY2PxxP8kZ8)
+- [USP 2018 INSUFICIÊNCIA CARDÍACA](https://forms.gle/4dEWAycrx58LzDDN7)
+- [Formulário](https://forms.gle/K5UHpQmju9vxiF6G7)
+- [Formulário](https://forms.gle/1vATAA9TDccwSWCK9)
+- [Formulário](https://forms.gle/SdEf4TvNhzVAJqkK8)
+- [REVALIDA 2017 MORTE ENCEFÁLICA](https://forms.gle/BKbR7SVTah1EMk1a8)
+- [REVALIDA 2017 SÍFILIS GESTACIONAL](https://forms.gle/Pb2AWCR9cUqCXFMJ9)
+- [REVALIDA 2017 SÍNDROME METABÓLICA](https://forms.gle/8h5yLRmam1QpiZUN8)
+- [REVALIDA 2017 VIOLÊNCIA SEXUAL NA INFÂNCIA](https://forms.gle/JJoybjmn5y2TqTbx6)
+- [Formulário](https://forms.gle/KbdbyBTaeKuzDS5g7)
+- [SUS-BA 2016 IAMCSST INFARTO](https://forms.gle/AyRMVd8k9DC6sWCq5)
+- [Formulário](https://forms.gle/cszjFrF6qsW4bA2HA)
+- [Formulário](https://forms.gle/4LbTcwmJ2ThH1wEr9)
+- [SUS-BA 2016 TUBERCULOSE](https://forms.gle/io4kFpr8JEcq3k3T6)
+- [Formulário](https://forms.gle/v4FhmnBB91kwxYB49)
+- [SUS-BA 2018 CRESCIMENTO](https://forms.gle/qWCK21qvcwiebjeo7)
+- [SUS-BA 2018 COLPOCITOLOGIA ONCÓTICA PREVENTIVO](https://forms.gle/nfDNQovNsaSB8c1b9)
+- [Formulário](https://forms.gle/tUJPw1Zr2D2UCrSg8)
+- [Formulário](https://forms.gle/QSvMRNUFwEfpWmzx7)
+- [SUS-BA 2019 AMENORREIA PRIMÁRIA](https://forms.gle/G7fGgnB5mFtGHJer5)
+- [Formulário](https://forms.gle/L3XetDkcoGU3Zhqw8)
+- [SUS-BA 2019 ENDOCARDITE](https://forms.gle/fQPMWEG7HqTAvFAA6)
+- [SUS-BA 2019 IMUNIZAÇÕES](https://forms.gle/VSjwHKPmVLQGGogN9)
+- [SUS-BA 2019 RETOCOLITE ULCERATIVA](https://forms.gle/JpMESQTxWNjwtpfR6)
+- UERJ 2019 DOENCA INFLAMATORIA PELVICA DIP
+- Curso Integra-DN 2020 - Doenças negligenciadas
+- [Formulário](https://forms.gle/AK4LdBmpdEkEkwRE6)
+- [Formulário](https://forms.gle/qSwmW6EvAvGWqtkt8)
+- [Formulário](https://forms.gle/F6Ycm1VEZMCzhV7o7)
+- [Formulário](https://forms.gle/NyYrEY4kgCuabamX7)
+- [Formulário](https://forms.gle/v6avUXyCAdqoGxGY6)
+- [LEISHMANIOSE TEGUMENTAR](https://forms.gle/M9KSHWMTr9nTvRzPA)
+- [Formulário](https://forms.gle/8nRYhzHUiNEuqYBC7)
+- [Formulário](https://forms.gle/UQGeFSsLP2gW9LWj7)
+- [Formulário](https://forms.gle/W3PeXvXyou8KUW6E7)
+- [Formulário](https://forms.gle/hZ4BwcyMNtSj7kz3A)
+- [Documento](https://docs.google.com/document/d/1_Tl6-XrjshMmlqXcW7Qj-ILVeu-UVUhJ/edit?usp=sharing&ouid=117039145785569371004&rtpof=true&sd=true)
+- [Documento](https://docs.google.com/document/d/1U2NjOcfIWiztzliwD6EqDtQsaDeQeYYd/edit?usp=sharing&ouid=117039145785569371004&rtpof=true&sd=true)
+- Z-GUSSO2019-1 PRINCÍPIOS MFC
+- Z-GUSSO2019-2 MFC ESPECIALIDADE E PROFISSÃO
+- Z-GUSSO2019-3 MFC NA SAÚDE PÚBLICA
+- Z-GUSSO2019-5 MODELOS DE ACESSO MFC NA APS
+- Z-GUSSO2019-6 APS NO BRASIL
+- Z-GUSSO2019-7 APS EM OUTROS PAÍSES
+- Z-GUSSO2019-8 CULTURA SAÚDE E MFC
+- Z-GUSSO2019-9 COMPLEXIDADE E INTEGRALIDADE NA MFC
+- Z-GUSSO2019-11 PARTICIPAÇÃO POPULAR NA APS
+- Z-GUSSO2019-12 EDUCAÇÃO POPULAR
+- Z-GUSSO2019-13 ÉTICA NA APS
+- Z-GUSSO2019-14 REDES VIRTUAIS INTERNACIONAIS MFC
+- Z-GUSSO2019-15 CONSULTA E ABORDAGEM CENTRADA NA PESSOA
+- Z-GUSSO2019-16 DECISÕES COMPARTILHADAS
+- Z-GUSSO2019-17 RELAÇÃO CLÍNICA NA MFC
+- Z-GUSSO2019-18 VALISE DO MÉDICO
+- Z-GUSSO2019-19 ATENDIMENTO EM SAÚDE POR RECURSOS DIGITAIS
+- Z-GUSSO2019-20 TELESSAÚDE NA APS
+- Z-GUSSO2019-21 INFORMAÇÃO NA CONSULTA
+- Z-GUSSO2019-22 PESSOAS QUE CONSULTAM FREQUENTEMENTE
+- Z-GUSSO2019-23 PESSOAS CONSIDERADAS DOENTE DIFÍCEIS
+- Z-GUSSO2019-24 GRUPOS BALINT
+- Z-GUSSO2019-25 GESTÃO DA CLÍNICA
+- Z-GUSSO2019-26 EPIDEMIOLOGIA CLÍNICA
+- Z-GUSSO2019-27 MULTIMORBIDADE
+- Z-GUSSO2019-28 MULTIMORBIDADE SUA MENSURAÇÃO
+- Z-GUSSO2019-29 MEDICINA BASEADA EM EVIDÊNCIAS MFC
+- Z-GUSSO2019-30 POLIFARMÁCIA
+- Z-GUSSO2019-31 PREVENÇÃO QUATERNÁRIA PRIMEIRO NÃO CAUSAR DANO
+- Z-GUSSO2019-32 PREVENÇÃO DO SOBREDIAGNÓSTICO
+- Z-GUSSO2019-33 MERCANTILIZAÇÃO DA DOENÇA
+- Z-GUSSO2019-34 PROTEÇÃO DOS PACIENTES CONTRA EXCESSOS
+- Z-GUSSO2019-35 ABORDAGEM FAMILIAR
+- Z-GUSSO2019-36 ABORDAGEM EM SAÚDE MENTAL MFC
+- Z-GUSSO2019-37 TERRITORIALIZAÇÃO
+- Z-GUSSO2019-38 DIAGNÓSTICO DA SAÚDE DA COMUNIDADE
+- Z-GUSSO2019-39 CUIDADO FAMILIAR
+- Z-GUSSO2019-40 GRUPOS NA APS
+- Z-GUSSO2019-41 INSERÇÃO COMUNITÁRIA
+- Z-GUSSO2019-42 TRABALHO EM EQUIPE
+- Z-GUSSO2019-43 APOIO MATRICIAL
+- Z-GUSSO2019-44 ORGANIZAÇÃO E NASF
+- [Z-GUSSO2019-45 VIGILÂNCIA EM SAÚDE](https://forms.gle/vtbWVbt38X2BmTNQA)
+- Z-GUSSO2019-46 GERENCIAMENTO DE UBS
+- Z-GUSSO2019-47 REMUNERAÇÃO E PAGAMENTO POR DESEMPENHO
+- Z-GUSSO2019-48 SISTEMAS DE CLASSIFICAÇÃO NA APS
+- Z-GUSSO2019-49 REGISTRO DE SAÚDE ORIENTADO POR PROBLEMAS
+- Z-GUSSO2019-50 PRONTUÁRIO ELETRÔNICO NA APS
+- Z-GUSSO2019-51 INDICADORES
+- Z-GUSSO2019-52 INDICADOR INTERNAÇÕES SENSÍVEIS A APS
+- Z-GUSSO2019-53 METODOLOGIAS DE ENSINO MÉDICO
+- Z-GUSSO2019-54 ENSINO MFC NA GRADUAÇÃO
+- Z-GUSSO2019-55 RESIDÊNCIA EM MFC
+- Z-GUSSO2019-56 ESPECIALIZAÇÃO EM MFC
+- Z-GUSSO2019-57 AVALIAÇÃO DO ENSINO EM MFC
+- Z-GUSSO2019-58 DESENVOLVIMENTO PROFISSIONAL CONTÍNUO
+- Z-GUSSO2019-59 FILMAGEM DE CONSULTAS PARA APRENDIZADO
+- Z-GUSSO2019-61 ÁREA RURAL
+- Z-GUSSO2019-63 RIBEIRINHA
+- Z-GUSSO2019-64 TRAGÉDIAS
+- Z-GUSSO2019-65 SITUAÇÃO DE RUA
+- Z-GUSSO2019-66 MEDICINA PRIVADA
+- Z-GUSSO2019-67 PESQUISA QUANTITATIVA
+- Z-GUSSO2019-68 PESQUISA QUALITATIVA
+- Z-GUSSO2019-69 PROJETO DE PESQUISA
+- Z-GUSSO2019-70 PUBLICAÇÃO ACADÊMICA
+- Z-GUSSO2019-71 APRESENTAÇÃO POSTER AULA
+- Z-GUSSO2019-72 RASTREAMENTO DE DOENÇAS
+- Z-GUSSO2019-73 CUIDADOS PRÉ-OPERATÓRIOS
+- Z-GUSSO2019-74 IMUNIZAÇÃO E VACINAÇÃO
+- Z-GUSSO2019-75 MUDANÇA DE ESTILO DE VIDA
+- Z-GUSSO2019-76 NUTRIÇÃO
+- Z-GUSSO2019-77 ATIVIDADE FÍSICA
+- Z-GUSSO2019-78 SAÚDE ESCOLAR
+- Z-GUSSO2019-79 SEXUALIDADE E DIVERSIDADE
+- Z-GUSSO2019-80 SAÚDE OCUPACIONAL NA APS
+- Z-GUSSO2019-80 SAÚDE OCUPACIONAL NA APS (1)
+- Z-GUSSO2019-81 SAÚDE BUCAL
+- Z-GUSSO2019-82 VIOLÊNCIA DOMÉSTICA
+- Z-GUSSO2019-83 VIOLÊNCIA CONTRA O IDOSO
+- Z-GUSSO2019-84 AMBIENTES VIOLENTOS
+- Z-GUSSO2019-85 BENEFÍCIOS SOCIAIS
+- Z-GUSSO2019-86 SAÚDE DA CRIANÇA
+- Z-GUSSO2019-87 SAÚDE DO HOMEM
+- Z-GUSSO2019-88 SAÚDE DA MULHER
+- Z-GUSSO2019-89 SAÚDE DO IDOSO
+- Z-GUSSO2019-90 SINTOMA COMO DIAGNÓSTICO
+- Z-GUSSO2019-91 PROCEDIMENTOS EM APS 1
+- Z-GUSSO2019-92 PROCEDIMENTOS EM APS 2
+- Z-GUSSO2019-93 PRÁTICAS INTEGRATIVA PIS
+- Z-GUSSO2019-94 MEDITAÇÃO
+- Z-GUSSO2019-95 ESPIRITUALIDADE E SAÚDE
+- Z-GUSSO2019-96 PLANTAS MEDICINAIS
+- Z-GUSSO2019-97 FISIOTERAPIA NA APS
+- Z-GUSSO2019-98 SEXUALIDADE E TRANSEXUALIDADE
+- Z-GUSSO2019-99 INTOLERÂNCIAS ALIMENTARES
+- Z-GUSSO2019-100 HEMOGRAMA NA APS
+- Z-GUSSO2019-101 SÍNCOPE E DESMAIO
+- Z-GUSSO2019-102 DOR AGUDA
+- [Z-GUSSO2019-103 DOR CRÔNICA](https://forms.gle/tXkTET7Xa8jCYjep6)
+- Z-GUSSO2019-105 LINFONODOMEGALIA
+- Z-GUSSO2019-106 CUIDADOS PALIATIVOS NA APS
+- Z-GUSSO2019-107 MORTE E LUTO NA APS
+- Z-GUSSO2019-108 PRESCRIÇÃO NA APS
+- Z-GUSSO2019-109 DESPRESCRIÇÃO NA APS
+- Z-GUSSO2019-110 ORIENTAÇÕES PARA PROCEDIMENTOS E EXAMES
+- Z-GUSSO2019-111 ALEITAMENTO E INTRODUÇÃO ALIMENTAR
+- Z-GUSSO2019-112 PROBLEMAS DE CRESCIMENTO E GANHO DE PESO
+- Z-GUSSO2019-113 DIFICULDADE DE APRENDIZAGEM
+- Z-GUSSO2019-114 PROBLEMAS NO DESENVOLVIMENTO NEUROPSICOMOTOR
+- Z-GUSSO2019-115 CRIANÇA COM SIBILÂNCIA
+- Z-GUSSO2019-116 VÔMITO E DIARREIA NO LACTENTE
+- Z-GUSSO2019-117 ENURESE E ENCOPRESE
+- Z-GUSSO2019-118 CHORO E CÓLICAS
+- Z-GUSSO2019-119 FEBRE E CONVULSÃO NO LACTENTE
+- Z-GUSSO2019-120 REFLUXO GASTROESOFÁGICO NA CRIANÇA
+- Z-GUSSO2019-121 CEFALEIA RECORRENTE NA CRIANÇA
+- Z-GUSSO2019-122 DOR ABDOMINAL RECORRENTE
+- Z-GUSSO2019-123 DORES RECORRENTES EM MEMBROS EM CRIANÇAS E ADOLESCENTES
+- Z-GUSSO2019-124 ABUSO INFANTIL
+- Z-GUSSO2019-125 PROBLEMAS CONGÊNITOS PREVALENTES
+- Z-GUSSO2019-126 CONDIÇÕES CIRÚRGICAS NAS CRIANÇAS
+- Z-GUSSO2019-127 PROBLEMAS FREQUENTES NA CRIANÇA
+- Z-GUSSO2019-128 CUIDADOS PRÉ-CONCEPCIONAIS
+- Z-GUSSO2019-129 CONTRACEPÇÃO
+- Z-GUSSO2019-130 INFERTILIDADE
+- Z-GUSSO2019-131 PRÉ-NATAL DE BAIXO RISCO
+- Z-GUSSO2019-132 HIPERTENSÃO NA GESTAÇÃO
+- Z-GUSSO2019-133 CUIDADOS NO PUERPÉRIO
+- Z-GUSSO2019-134 PROBLEMAS DA MAMA
+- Z-GUSSO2019-134 PROBLEMAS DA MAMA ANEXOS
+- Z-GUSSO2019-135 CORRIMENTO VAGINAL
+- Z-GUSSO2019-135 CORRIMENTO VAGINAL ANEXOS
+- Z-GUSSO2019-136 AMENORREIA
+- [Z-GUSSO2019-137 SANGRAMENTO VAGINAL E DISTÚRBIOS MENSTRUAIS](https://forms.gle/3CBTj2SAYsT3Aue28)
+- Z-GUSSO2019-138 CLIMATÉRIO E MENOPAUSA
+- Z-GUSSO2019-139 DOENÇAS TESTICULARES E ESCROTAIS
+- [Formulário](https://forms.gle/rPQjHfdKShhKxuFdA)
+- [Formulário](https://bit.ly/3tMtu7z)
+- Z-GUSSO2019-141 NEOPLASIA DE COLO UTERINO
+- Z-GUSSO2019-142 INCONTINÊNCIA URINÁRIA NO ADULTO
+- Z-GUSSO2019-143 RETENÇÃO URINÁRIA ENCURTAMENTO DO JATO E PROBLEMAS PROSTÁTICOS
+- Z-GUSSO2019-144 CÓLICA RENAL
+- Z-GUSSO2019-145 ITU EM CRIANÇAS
+- [Z-GUSSO2019-146 ITU ADULTO](https://forms.gle/oQcAVxm9LAJHVtoPA)
+- Z-GUSSO2019-147 ALTERAÇÕES DA FUNÇÃO RENAL
+- Z-GUSSO2019-149 TOSSE AGUDA E CRÔNICA
+- Z-GUSSO2019-150 INTERPRETAÇÃO DE RADIOGRAFIA TORÁCICA E ESPIROMETRIA
+- Z-GUSSO2019-151 ASMA EM CRIANÇAS E ADULTOS
+- Z-GUSSO2019-152 DOENÇA PULMONAR OBSTUTRIVA CRÔNICA
+- Z-GUSSO2019-153 DOENÇAS PULMONARES NÃO INFECCIOSAS
+- Z-GUSSO2019-154 IVAS RESFRIADO COMUM E GRIPE
+- Z-GUSSO2019-155 INFECÇÃO DAS VIAS AÉREAS INFERIORES
+- Z-GUSSO2019-156 TUBERCULOSE
+- Z-GUSSO2019-157 PREVENÇÃO PRIMÁRIA E SECUNDÁRIA PARA DOENÇAS CARDIOVASCULARES
+- [Z-GUSSO2019-158 DOR TORÁCICA ANGINA E IAM](https://forms.gle/jk1RxDiHVhF7dHck9)
+- Z-GUSSO2019-159 PALPITAÇÃO E ARRITMIA
+- Z-GUSSO2019-160 INTERPRETAÇÃO DO ECG
+- [Z-GUSSO2019-161 HIPERTENSÃO ARTERIAL SISTÊMICA](https://forms.gle/71NWV2MUYnoUXc58A)
+- Z-GUSSO2019-162 DOENÇA ARTERIAL PERIFÉRICA
+- Z-GUSSO2019-163 DOENÇAS DO SISTEMA VENNOSO
+- [Z-GUSSO2019-164 INSUFICIÊNCIA CARDÍACA](https://forms.gle/kRUSCWwykyzNVcB5A)
+- Z-GUSSO2019-165 DOR ABDOMINAL
+- Z-GUSSO2019-166 SÍNDROME DISPÉPTICA
+- Z-GUSSO2019-166 SÍNDROME DISPÉPTICA (1)
+- Z-GUSSO2019-167 NÁUSEAS E VÔMITOS
+- Z-GUSSO2019-168 DOENÇA DO REFLUXO GASTROESOFÁGICO NO ADULTO
+- Z-GUSSO2019-169 SANGRAMENTO GASTROINTESTINAL
+- Z-GUSSO2019-170 ICTERÍCIA
+- Z-GUSSO2019-171 DIARREIA AGUDA E CRÔNICA
+- Z-GUSSO2019-172 CONSTIPAÇÃO
+- Z-GUSSO2019-173 PROBLEMAS ANORRETAIS COMUNS
+- Z-GUSSO2019-174 PARASITOSES INTESTINAIS
+- Z-GUSSO2019-175 HEPATITES
+- Z-GUSSO2019-176 OBESIDADE
+- Z-GUSSO2019-177 DISLIPIDEMIA
+- [Z-GUSSO2019-178 DM TIPOS 1 E 2](https://forms.gle/ErvcYuERhQxfSmmC9)
+- Z-GUSSO2019-179 PROBLEMAS DA TIREOIDE
+- Z-GUSSO2019-180 OUTROS PROBLEMAS ENDOCRINOLÓGICOS
+- Z-GUSSO2019-182 EPISTAXE NA APS
+- Z-GUSSO2019-184 PERDA AUDITIVA
+- Z-GUSSO2019-186 DOR DE OUVIDO E OTITE MÉDIA AGUDA
+- Z-GUSSO2019-187 DOR DE GARGANTA
+- Z-GUSSO2019-188 RINOSSINUSITES
+- Z-GUSSO2019-189 PERDA DA ACUIDADE VISUAL
+- Z-GUSSO2019-190 PTERÍGIO PINGUÉCULA E PTOSE
+- Z-GUSSO2019-191 OLHO VERMELHO
+- Z-GUSSO2019-192 PRINCÍPIOS DOS CUIDADOS COM A PELE
+- Z-GUSSO2019-193 PROBLEMAS DO COURO CABELUDO - CAPILARES
+- Z-GUSSO2019-196 HIRSUTISMO
+- Z-GUSSO2019-198 PROBLEMAS NAS UNHAS
+- Z-GUSSO2019-199 CUIDADOS COM FERIDAS
+- Z-GUSSO2019-201 ESCABIOSE E PEDICULOSE
+- Z-GUSSO2019-202 NEVOS VERRUGAS E TUMORES
+- Z-GUSSO2019-203 CELULITES E PIODERMITES
+- Z-GUSSO2019-204 MICOSES E ONICOMICOSES
+- Z-GUSSO2019-205 HANSENÍASE
+- Z-GUSSO2019-206 PSORÍASE
+- Z-GUSSO2019-207 MANIFESTAÇÕES CUTÂNEAS DAS DOENÇAS SISTÊMICAS
+- Z-GUSSO2019-208 LABORATÓRIO NAS DOENÇAS REUMÁTICAS
+- Z-GUSSO2019-209 POLIARTRALGIA
+- Z-GUSSO2019-210 DORES MUSCULARES
+- Z-GUSSO2019-211 CERVICALGIA
+- Z-GUSSO2019-212 LOMBALGIA
+- Z-GUSSO2019-213 DOR NO PUNHO E NAS MÃOS
+- Z-GUSSO2019-214 DOR NO COTOVELO
+- Z-GUSSO2019-215 NOR NO OMBRO
+- Z-GUSSO2019-216 DOR NO QUADRIL
+- Z-GUSSO2019-217 DOR NO JOELHO
+- Z-GUSSO2019-218 DOR NO PÉ E NO TORNOZELO
+- Z-GUSSO2019-219 OSTEOARTRITE E ARTRITE REUMATOIDE
+- Z-GUSSO2019-221 OSTEOPOROSE
+- Z-GUSSO2019-222 OSTEOMIELITE
+- Z-GUSSO2019-223 FIBROMIALGIA
+- Z-GUSSO2019-224 CEFALEIA E ENXAQUECA
+- Z-GUSSO2019-225 TONTURA E VERTIGEM
+- Z-GUSSO2019-226 DISTÚRBIOS DA LOCOMOÇÃO
+- Z-GUSSO2019-227 PARALISIA FACIAL
+- Z-GUSSO2019-228 INDICAÇÃO E INTERPRETAÇÃO DO ECG E ENMG
+- Z-GUSSO2019-229 DEMÊNCIAS
+- Z-GUSSO2019-230 CONVULSÕES E EPILEPSIA
+- Z-GUSSO2019-231 TREMOR E SÍNDROMES PARKINSONIANAS
+- Z-GUSSO2019-232 OUTRAS DOENÇAS NEUROLÓGICAS
+- Z-GUSSO2019-233 NEUROPATIAS PERIFÉRICAS
+- Z-GUSSO2019-234 MENINGITE
+- Z-GUSSO2019-235 ACIDENTE ISQUÊMICO TRANSITÓRIO E AVC
+- Z-GUSSO2019-236 PSICOFÁRMACOS
+- Z-GUSSO2019-237 SOMATIZAÇÃO E SINTOMAS SEM EXPLICAÇÃO MÉDICA
+- Z-GUSSO2019-238 TRISTEZA SENSAÇÃO DE DEPRESSÃO E PERTURBAÇÕES DEPRESSIVAS
+- Z-GUSSO2019-239 ANSIEDADE E ESTRESSE
+- Z-GUSSO2019-240 HIPERATIVIDADE E DÉFICIT DE ATENÇÃO
+- Z-GUSSO2019-241 PERTURBAÇÕES DO SONO
+- [Z-GUSSO2019-242 TABAGISMO](https://forms.gle/oQF6ifRiCDVzMxEP6)
+- Z-GUSSO2019-243 PROBLEMAS RELACIONADOS AO CONSUMO DE ÁLCOOL
+- Z-GUSSO2019-244 DEPENDÊNCIA DE DROGAS ILÍCITAS
+- Z-GUSSO2019-245 TRANSTORNOS ALIMENTARES
+- [Z-GUSSO2019-246 PSICOSES](https://forms.gle/cUBn4161dBreDiRSA)
+- Z-GUSSO2019-247 CASOS GRAVES DE SAÚDE MENTAL
+- Z-GUSSO2019-248 SAÚDE MENTAL NA INFÂNCIA
+- Z-GUSSO2019-250 EMERGÊNCIA PRÉ-HOSPITALAR
+- Z-GUSSO2019-252 QUEIMADURAS
+- Z-GUSSO2019-253 INTOXICAÇÕES AGUDAS
+- Z-GUSSO2019-254 PICADAS DE COBRAS ARANHAS E ESCORPIÕES
+- Z-GUSSO2019-255 PARADA CARDIORRESPIRATÓRIA
+- Z-GUSSO2019-256 EMERGÊNCIA PSIQUIÁTRICA
+- Z-GUSSO2019-257 CHIKUNGUNYA
+- Z-GUSSO2019-257 CHIKUNGUNYA - ANEXOS
+- [https://www.escoladepacientes.com/profissionais/testes/teste-gusso2019-257-dengue](https://www.escoladepacientes.com/profissionais/testes/teste-gusso2019-257-dengue)
+- Z-GUSSO2019-257 DENGUE - ANEXOS
+- Z-GUSSO2019-257 DENGUE CHIKUNGUNYA ZIKA
+- Z-GUSSO2019-257 ZIKA - ANEXOS
+- Z-GUSSO2019-259 DOENÇA DE CHAGAS
+- Z-GUSSO2019-260 FEBRE AMARELA E LEPTOSPIROSE
+- Z-GUSSO2019-262 DOENÇAS DO VIAJANTE FEBRE E DIARREIA
+- Z-GUSSO2019-263 DOENÇAS EXANTEMÁTICAS NA CRIANÇA
+- Z-GUSSO2019-Z-APÊNDICE 1 CURVAS DE CRESCIMENTO E DESENVOLVIMENTO
+- Z-GUSSO2019-Z-APÊNDICE 2 FERRAMENTAS DE RASTREAMENTO E ACONSELHAMENTO EM ADULTOS
+- Z-GUSSO2019-Z-APÊNDICE 3 VALORES DE REFERÊNCIA PARA EXAMES
+- Z-GUSSO2019-Z-APÊNDICE 4 MEDICAMENTOS E GESTAÇÃO
+- Z-GUSSO2019-Z-APÊNDICE 5 MEDICAMENTOS E AMAMENTAÇÃO
+- Z-GUSSO2019-Z-APÊNDICE 6 INTERAÇÕES MEDICAMENTOSAS
+- Z-GUSSO2019-Z-APÊNDICE 7 FÁRMACOS DOSÁVEIS
+- Z-GUSSO2019-135 CORRIMENTO VAGINAL COMPLETO
+- Z-GUSSO2019-158 DOR TORÁCICA ANGINA E IAM GABARITO V1
+- Z-GUSSO2019-89 SAÚDE DO IDOSO; Z-GUSSO2019-241 PERTURBAÇÕES DO SONO
+- Z-GUSSO2019-140 ISTS COMPLETO
+
+DICAS DE PROVAS - MNEMÔNICOS
+
+- MEDGRUPO E GRUPO DE ESTUDOS - ANTRO - UNB
+- Baixas condições de saneamento
+- Cabeça (deficiência mental)
+- Esfomeado (desnutrição grave)
+- 2pts - "desemprego é uma droga"
+- ESCALA DE AVDS: (ATIVIDADES BÁSICAS - ATÉ O GATO FAZ) = KATZ
+- URO: HPB OBSTRUTIVA: FIN DA OBSTRUÇÃO, FINASTERIDA. IRRITATIVA: PAZOCIN
+- SATURNISMO: LEVANDO CHUMBO, OLHA A GINGA (ANEMIA GENGIVA IPERTENSÃO NEURO GOTA ABDOMINAL) (FOTO NEO-MATRIX)
+- PEDIATRIA: ERITEMA INFECCIOSO INFURIOSO (FACE ESBOFETEADA) (PAI VOVÍRUS B19)
+- ORTOPEDIA EWING: MENININHA 10 ANOS COMENDO ONION EWINGS APOIADO NO MEIO DA COXA SUPER EMPANTURRADA COM MOLHO APIMENTADO, OUTBACK PACOTE COMPLETO (CRIANÇAS MENOR 10 ANOS, CASCA CEBOLA, DIÁFISE, FEBRE, QUEDA DO ESTADO GERAL, TRATAMENTO PACOTE COMPLETO - CIRURGIA, QT, RADIO)
+- ORTOPEDIA: OSTEOSOLCOMA: SOL NASCE PARA TODOS (MAIS COMUM), METÁFISE DO DIA
+- PEDIATRIA: CMV CALCIFICAÇÃO CONTORNO VENTRICULAR
+- PEDIATRIA: ICTERÍCIA LEITE É LATE (TARDIA), ALEITAMENTO É PRECOCE (SEM LEITE COMEÇA PERDA PONDERAL)
+- PEDIATRIA: DRENAGEM ANOLAV DE VEIAS (BONECO DE NEVE, TRONCOS ARTERIOSOS)
+- PEDIATRIA: TRANSPOSIÇÃO DE GRANDES VASOS TRANS OVIPOSIÇÃO - OVO DEITADO
+- FALLOT: BEBÊ AZUL COM PERNAS DOBRAS EM CIMA DO SKATE CALÇANDO TAMANCOS HOLANDESES APLICANDO MORFINA E DIZENDO: FALLOOOOUUT… VOU… PRO… PRA… NO… LOL…
+- GASTRO: DISPEPSIA SINAIS DE ALARME IHH O ALARME (IDADE MAIOR 45, HISTÓRIA FAMILIAR, HEMATÊMESE, ODINOFAGIA-DISFAGIA, ANEMIA, LINFONODOMEGALIA, AMARELO, RAULL VÔMITO, MASSA ABDOMINAL, EMAGRECIMENTO)
+- CIRURGIA: PANCREATITE BILIAR (LEGAL FECHOU) (LECOCITOSE 18000, ENZIMAS TGO 250, GLICEMIA 220, ANOS 70, LDH 400) (APÓS 48H FLUIDO 4L, EXCESSO BASE (5), CÁLCIO MENOR 8, HEMATÓCRITO (QUEDA MAIOR 10), UREIA (BUN MAIOR 2)
+- PNEUMOLOGIA: CA PULMÃO EPIDERMOIDE: CIGARRO (CHEIRO PELE), HIPERCALÇADEMIA (PANCOAST-TOBIAS, HORNER), CIGARRO CENTRAL
+- Diagnóstico diferencial -
+- Botulismo (paralisia flácida simétrica descendente, alimentos em conserva ou ferida ou intestinal)
+- Neurite óptica - O paciente não vê nada e o médico também não
+- Locais com Pólio no mundo -
+- okô (Katz = banheiro, banho, roupas, comida)
+- TNMs pra revisar antes da prova:
+- Carcinomas e metástases ósseas (Carcinomas that have a Propensity to Metastasize to Bone)
+- Síndromes importantes para prova mas que você nunca vai na vida:
+- Síndrome de Caplan (Artrite reumatoide, nódulos pulmonares + pneumoconiose)
+- Síndrome de Goodpasture (Anticorpo anti-membrana basal glomerular e alveolar, síndrome pulmão-rim com biópsia renal e imunofluorescência de padrão linear)
+- 3 neoplasias que adoram comer osso (lesões líticas): mieloma, pulmão e mama
+- Idoso com lesão renal: mieloma múltiplo
+- Tosse crônica – causas mais comuns
+- Artrite Reumatoide poupa interfalangianas distais
+- PAN poupa Pulmão E POUPA GLOMÉRULO
+- Epilepsia? Valproato de sódio (ácido valproico) (primo-irmão: topiramato)
+- Linfadenopatia persistente (2 ou mais cadeias extra-inguinais, gânglios elásticos, móveis e com aumento por mais de 3 meses, principais cadeias são cervical anterior e posterior), 2 opções principais:
+- Toda mulher está grávida, até que se prove o contrário (história, DUM, B-hCG)
+- Toda angina é dissecção de aorta, até que se prove o contrário (pressão 2 braços)
+- FAST HUG! Dê um "rápido abraço" em seus pacientes diariamente!!!
+- FAST HUG - check list da prescrição do paciente em UTI.
+- de feeding, checar a dieta.
+- de analgesia, checar se há analgesia.
+- de sedação, checar a sedação e fazer despertar diário às 5 da manhã, desligando todos os sedativos (se pertinente).
+- de prevenção de TVP/TEP, checar se há Clexane ou HNF em doses profiláticas.
+- de head, checar se o leito está a 30 graus (previne pneumonia nosocomial).
+- de ulcer, checar se há profilaxia para úlcera de estresse (úlcera de Curling)
+- de glicemia, lembrar de prescrever o controle de glicemia, e SG 5% 50 ml IV se glicemia capilar menor q 70mg/dL.
+- Principal agente de Meningite Brasil (Ministério Saúde) e States
+- States Streptococco (pneumoniae)
+- DROGA ATB Macrolídeos MACEte
+- Criança: pensar em Dermatopolimiosite
+- Adulto: pensar em síndrome CREST
+- Tudo que for súbito em medicina tem origem vascular. Se ocorrer em dias é mais um processo autoimune ou infeccioso. Se ocorrer em meses, o processo é neoplásico, em anos processo degenerativo.
+- 5Fs Fatless perda peso intencional 4.5kg 5%
+- Fadiga auto-referida Grande esforço
+- Força dinamômetro mão dominante
+- INSUFICIÊNCIA CARDÍACA – CRITÉRIOS MAIORES
+- PRECE BOA DEVE TER PAIXÃO
+- R – REFLUXO HEPATO JUGULAR
+- E – EDEMA AGUDO DE PULMÃO
+- E – ESTERTORES PULMONARES
+- D – DISPNEIA PAROXÍSTICA NOTURNA
+- P – PERDA DE 5KG COM USO DE DIURÉTICO
+- Dermatomiosite: Heliótropo - pálpebras arroxeadas e com edema
+- Dermatomiosite: Sinal de Gottron - manchas em articulações das mãos, ainda não fez pápula
+- Lesão 2o neurônio motor: atrofia com miofasciculações (Só as fasciculações não vale, tem que ter atrofia).
+- ECG: Onda T acompanha o K+
+- 4 Hipo hipoVOlemia HipoNAtremia hipoK HipoMAgnesemia
+- (3 Hiper Hiperglicemia Hiperlipidemia Hiperuricemia Gota contraindica)
+- osta nenhuma (alteração estrutural mas não sente Bosta nenhuma)
+- ureza sintomas refratários
+- B4 (sobrecarga pressórica, contração atrial em ventrículo duro)
+- Bulha que depende do átrio é a B
+- Dissecção aórtica, classificação:
+- Stanford (mais cai em prova)
+- Stanford A, Ascendente, Ah vai complicar
+- Stanford B, Bescendente, Bobeira
+- Droga sempre presente na doença arterial coronariana, aguda ou crônica (Respeitando contraindicações)
+- Landalf Gandalf (Senhor dos anéis) (Pupila que az midríase e miose)
+- im (cabeça fazendo “sim")
+- Muller (Úvula… A Muller uvula sob efeito da pulsação)
+- ensão torácica (pneumotórax hipertensivo)
+- rombose coronariana (IAM)
+- Endocardite infecciosa, manchas:
+- Febre, cansado e sopro: ENDOCARDITE
+- Critérios diagnósticos - 2M ou 1M+3m ou 5m
+- Hemocultura (agentes típicos em 2 amostras, bacteremia persistente, Coxiella Burnetti (sorologia ou 1 cultura+)
+- Ecocardiograma: Vegetação, abscesso, deiscência, Nova regurgitação valvar,
+- Fator de risco (predisposição ou uso de drogas IV)
+- Fenômenos vasculares (aneurisma micótico, hemorragia craniana, petéquias-conjuntiva, Janeway)
+- Fenômenos imunológicos (Manchas de Roth, GNDA, nódulos de Osler, FR+)
+- Faltou uma hemocultura (não preenche critério Maior)
+- TV: Procainamida, Amiodarona, Sotalol
+- Aldactone (espironolactona)
+- sTENvens johnson - Ten 10%
+- Tumor Papilífero de Tireoide 6 Ps
+- Parando (crescimento lento)
+- Tireoide e TPO pouco específico
+- TPO - TaPaburacO (Aparece em todas)
+- Anti-tireoidiano que é PROPIL para inibir conversão periférica de T4 em T3?
+- NEM 1: PPP Paratireoide Pituitária Pâncreas (endócrino gastrinoma)
+- NEM 2: 2 coisas (Medular Tireoide + Feocromocitoma)
+- NEM 2b Neuromas mucosos hábito Marfanoide
+- Questão de câncer colorretal, se colono não estiver no enunciado, está na resposta
+- Se tiver feito por outro método, tem que fazer colono para ver se tem câncer também do lado direito
+- Precisa da colono para definir conduta
+- Condições que causam TGO / TGP > 1 (AST/ ALT > 1)
+- Crohn e perfuração intestinal: anti-OMPC
+- Olha Muleque a Perfuraçao de Chron ! OMPC
+- - Quer algo mais quente que ponto G?)
+- TAPorfora (extrínseca, TAP/INR)
+- (Fatores V, II, X, I) ViiXi…
+- Fatores dependentes de vitamina K
+- (2 mais 7 igual a 9, quem tirou 9 tirou 10)
+- Macrogamaglobulinemia de Waldeström
+- Causas de VHS acima de 100:
+- till (artrite idiopática juvenil)
+- Mieloma múltiplo (homem, idoso, negro,
+- Principal causa de síndrome de Fanconi
+- Principal causa de Amiloidose primária
+- Mieloma múltiplo: Prognóstico
+- (Melhor estimativa da carga tumoral)
+- Mieloma múltiplo e tipos de cadeia (GALD)
+- - MieloMA GAL (MA-GAL)(IgG, IgA, Cadeia Leve)
+- Quais os parasitas mais populares da via hepática, que todo mundo tem no
+- Cirrose Biliar Primária - Anticorpo Anti-mitocôndria
+- iperglicemia (diabetes bronzeado)
+- iperpigmentação (diabetes bronzeado)
+- Insuficiência respiratória
+- Iela pneumoniae (Alcoólatras)
+- Tratamento para descompensação do DPOC
+- A- atividades (limitação de)
+- B - broncodilatador (uso de)
+- C - Calada da noite (sintomas noturnos)
+- D - diurnos (sintomas durante dia)
+- E - espirometria (provas de função menor que 80%)
+- Aumento de sobrevida no DPOC: TOP
+- Oxigênio terapia domiciliar em hipoxêmicoz
+- Pra decorar se a asma esta controlada ou nao
+- Diurnos (menor ou igual a dois/tres ou mais)
+- Atividades (nenhuma limitação/qualquer)
+- Medicações (menor ou igual a duas/tres ou mais)
+- Noturnos (nenhum/qualquer)
+- VEF1 (normal/menor que 80%->"caiu")
+- controlada eh quando temos todos os parametros da coluna da esquerda
+- Parcialmente controlada eh quando temos um ou dois desses alterados no máximo
+- Nao controlada eh quando temos tres ou mais
+- Causas e tipos de Síndrome Nefrótica
+- - Lesão mínima: AINES, Linfoma de Hodgkin
+- - Membranosa: Hepatite B e C, Neoplasia oculta, LES
+- - GEFS: outras (obesidade, HIV, heroína... Se for chutar, chuta GEFS)
+- Principais patógenos envolvidos no cálculo coraliforme (
+- Furosemida atrapalha o ADH
+- emoglobina S (Anemia falciforme)
+- 7 causas de IRC com rins de tamanho aumentado ou normal:
+- (Quem sabe 7 causas de IRC tamanho normal pode HFA? PODE HFA)
+- Via clássica - c4 - via quátssica c4 - LES e algumas imunodeficiências
+- Via alternativa - c3 - via alTRÊSnativa - C3 - LES e GNP3(GNPE)
+- Ch50 é via final, como se fosse a via comum das 2
+- Nefropatia Membranosa eh SAPECA
+- Proximal: glicose, aminoácido, bicarbonato, ácido úrico, fosfato (Fanconi) (PULGA Phosfato úrico libera bicarbonato glicose aminoácido)
+- deitado (AVE no mesencéfalo dando paralisia ocular homolateral, o resto é paralisia contralateral)
+- índrome de Guillan- Barré
+- lisa - Ectoscopia, estado de consciência.
+- amorado - nervos cranianos
+- Tratamento de Miastenia gravis pode envolver
+- (timoma e 85% dos outros) (além de piridostigmina e corticoide)
+- ! Todo miastênico é corintiano
+- Ausência (epilepsia generalizada): 3Hz
+- West (espasmo infantil, EEG típico, retardo mental epilepsia de prognóstico ruim): Ipsi-arritmia (ondas lentas e altas voltagens, bilateral e caótico)
+- Lennox-Gastaut (qualquer tipo de crise, EEG típico, retardo mental, epilepsia de prognóstico ruim): espícula-onda < 2,5 Hz
+- enobarbital - Não é primeira escolha para nenhuma (Única exceção, RN em crise)
+- Se tem 2 lados do corpo afetado na motricidade, já dá para saber que afetou tronco encefálico
+- Se chegar com alguém com paralisia facial, e paciente
+- não conseguir fechar o olho, só lesou o nervo, menos grave
+- conseguir fechar o olho, lesão é mais grave no SNC e precisa de ressonância imediata
+- Indivíduo hemiplégico vigil: AVE isquêmico
+- Indivíduo hemiplégico torporoso: AVE hemorrágico
+- Contraindicações pra anti-coagulação,
+- 3 semanas Grandes operações, Sangramento por orifícios (boca, ânus, genital)
+- 1/3 ou mais da cerebral média acometida
+- Hiperventilação neurogênica
+- Babinski e 1o neurônio motor:
+- Babinski (dedos apontando pra cima) te avisa que o problema tá lá em cima
+- Mulher jovem com neuralgia do trigêmeo = pensar em Esclerose Múltipla
+- Padrão das provas: sintomas aparecem (durando mais que 24h), depois somem e ficam um mês sem aparecer de novo
+- Acometimento extra-articular da Artrite reumatoide:
+- Psoríase na articulação pode tudo, sempre diagnóstico diferencial ("sífilis da articulação”)
+- Vasculites com diagnóstico inteiramente clínico:
+- Dermatopolimiosite e anticorpos (30% sensibilidade)
+- Glasgow Verbal (1-5) (Nada-Sílaba-Palavra-Página-Livro)
+- Abdome agudo: Se apendicite não é a primeira hipótese diagnóstica, ela deve ser pelo menos a segunda
+- TC e abdome inflamatório:
+- Hipocôndrio direito: colecistite
+- Ruídos hidroaéreos de TIMBRE METÁLICO
+- Patognomônico de obstrução em delgado
+- Indicações de proctocolectomia na RCU: Sangra é Ruim Demais Mas tem Tratamento
+- Critérios de Amsterdã: 3 2 1
+- Principais genes MLH1 e MSH2
+- Medicação boa: TETAxifeno (tamoxifeno)
+- Sangramento 1a Metade da Gestação:
+- Ectópica: Tratamento clínico com Metrotrexate 4 5 6 7
+- é pra saber de cor, cuspindo.
+- 2 células 2 gonadotrofinas
+- Estrogênios - granulosa (pela aromatase, deixar cheirosa)
+- Condiloma Plano: Treponema Pallidum
+- Condiloma Acuminado: HPV (6, 11, 42, 43, 44)
+- s ducreyi, É molephilus ducreyi
+- Donovanose não dói (DOINÃOvanose)
+- Cirurgia para Alongamento hipertrófico de colo
+- Sinal de Probabilidade Kluggge Vagggina
+- Amolecimento-Consistência
+- Alterações fisiológicas da gravidez - só aumenta o que for ajudar o feto ou o parto
+- Espira-mãe-cina (Espiramicina tratamento da mãe nos extremos de idade gestacional)
+- Sul-filho-diazina (Sulfadiazina tratamento do feto, junto com pirimetamina e ácido folínico)
+- PIRImetamina não pode no PIRImeiro trimestre (Teratogenicidade antes de 20smn)
+- Sulfadiazina não pode depois de 37 semanas por risco de kernicterus
+- Manobra de McRoberts (Julia Roberts, frango assado)
+- : não dá pra ver no exame clínico, só em peça
+- (superior sínfise púbica até promontório)
+- : Espaço real do trajeto pra cabeça do feto, mais importa pra
+- (face posterior sínfise púbica até promontório)
+- : Atravessa todo o canal do parto de forma
+- (Inferior sínfise púbica até promontório)
+- us: Saída do canal do parto,
+- (Inferior pube até cóccix)
+- scolar a placenta (quer descolar)
+- Baudelocque-Shultze: (Para-Schultze, guarda-SHULtZa)
+- Baudelocque-Duncan: (DUNCANto)
+- Manobras Distócia espáduas
+- ter mão tirar o braço posterior
+- Fatores de risco PREMATURIDADHe
+- rematuridade prévia (principal)
+- PMO (Rotura prematura de membranas ovulares)
+- nfecção (DST, doença periodontal, vaginose bacteriana)
+- al-formação uterina (útero septado, bicorno, IIC)
+- rina infectada (pielonefrite, cistite, bacteriúria assintomática)
+- dade materna (menor que 18, maior que 40)
+- esnutrição (baixo IMC, baixo nível sócio-econômico)
+- istensão uterina (gêmeos, polidrâmnio, macrossomia)
+- morragias (placenta prévia, DPP)
+- elato (líquido escorreu pela perna, translúcido, sem cheiro de urina)
+- H vaginal (teste do papel de nitrazina, normal é de 4-4,5)
+- icroscopia (cristalização arboriforme (folha de samambaia) – líquido amniótico com alto teor de sódio)
+- lhar! (exame especular, ver se está saindo líquido, Manobra Tarnier abrir a Tarnieira Valsalva-like)
+- zul do Nilo (secreção vaginal + corante – Células orangiófilas – epiderme fetal)
+- mniocentese (punciona cavidade amniótica e injeta corante)
+- lfa-feto proteína (líquido amniótico e sangue materno, vagina não)
+- mniosure (proteína placentária em secreção vaginal)
+- Sinal de Clark - enfisema subcutâneo (bolhinhas de ar, Clarck Clarck Clark)
+- Sinal de Reasens - subida da apresentação (sobe, Rise, Reasens)
+- Anterior - nAegele ( Pariental Anterior palpado)
+- PoZterior - LitZman (Z é posterior no alfabeto, parietal posterior palpado)
+- Gomes e Waterloo: PEso semPE noPEnta
+- Síndrome de Huntington e 3 macacos da filosofia
+- Seios paranasais presentes na criancinha menor que 7 anos
+- 3 fatores de risco para a recorrência de crise convulsiva febril em pediatria:
+- de diferença- se a crise ocorreu entre 38-39˚C
+- Imunossuprimido Creche, menor de 2 anos, ATB últimos 3 meses, OMA repetição
+- Manobras Barlow e Ortolani
+- Escore de Apgar - ofício,
+- Criança normal: estafilococo
+- Criança com anemia falciforme: salmonela
+- Exantema maculopapular rendilhado (falou rendilhado é eritema infeccioso)
+- Doença exantemática com Artropatia, ou é rubéola ou é eritema infeccioso
+- Apareceu tosse e fotofobia é sarampo!
+- Síndrome do bebe cinzento:
+- fenicol agora (Cloranfenicol)
+- Internação na pneumonia: DODOI e REG
+- Doença de Kawasaki: número mágico é 5 (e predomina abaixo de 5 anos (80%), pegando mais 5 sistemas: Gastrointestinal, respiratorio, musculo esquelético, SNC e urinario)
+- 5 dias de febre, mais 5 dos seguintes:
+- Febre 5 Dias + 5 manifestações clinicas possíveis:
+- Congestão ocular bilateral
+- Afecção de lábios e cavidade oral (Com língua em framboesa ou morango)
+- Exantema polimorfico centrifugo
+- Eritema e edema palmoplantar com 2 semanas depois descamação periungueal característica
+- Linfadenopatia cervical uni ou bilateral maior que 1.5 cm
+- Aleitamento cocomplementado? Alimentos sólidos e semi-sólidos (cocô)
+- B1 Beb1 Beb-UM, OLHA por ONDE voce ANDA
+- Oftalmoplegia Nistagmo e Marcha Ataxica
+- Bananas, de pijaaaaamas, desceeeendo as escadas
+- Fase 1 = Hipotireoidismo congênito + fenilcetonUNria
+- Fase 2 = mais hemoglobinopatia (S - 2)
+- Fase 3 = mais fibrose cís-TRI-ca
+- Fase 4 = mais qu-ADRinal e qua-BRIotinidase
+- CMV Contorno (periventricular) (vírus ventricular)
+- Toxoplasmose Todo (difusa)
+- Cê me vê, mas não me ouve (surdez)
+- Exantemática - Vacina e Imunoglobulina
+- Sarampo - Soro Seis dias (Imunoglobulina 6 dias, vacina metade 3 dias)
+- Varicela Vacina V dias (Vacina 5 dias, soro 4 dias)
+- Doença celíaca e auto-anticorpos:
+- TRA: TRANsglutaminase tecidual: Mais TRANquilo de fazer (Não é examinador dependente)
+- EEE: E-ndomísio: E-specífico E-xaminador dependente
+- Gli: Gliadina ("Gliancinha", menos 18 meses)
+- Febre reumáticas - Maiores JONES
+- - Muito baixo (mortalidade infantil e adultos jovens, doenças endêmicas)
+- - Baixo (óbito infantil e pré-escolar, diarrea)
+- - Regular (menos óbitos infantis, aumento da mortalidade maior que 50 anos)
+- - Regular (predomínio de óbitos em pessoas velhas)
+- - Notificação compulsória
+- ichos loucos (vaca louco – Creudzfeltd-Jakob, pulga louca peste, peçonhentos (cobra, aranha)
+- xógenas (agrotóxicos, metais pesados, gases tóxicos)
+- i (sífilis, SIDA e qualquer HIV , síndromes febris hemorrágicas, sinistra cólera)
+- errorismo (botulismo, carbúnculo ou antraz, tularemia, violência, suicídio)
+- ndêmicas (Esquistossomose, Chagas aguda, Hanseníase, Leishmaniose, acidentes de trabalho)
+- nternacionais (VIPs, varíola, influenza, Pólio, SARS, outras com risco internacional ou evento inesperado)
+- nticorpos (tuberculose, Febre amarela, hepatites, evento adverso pós-vacina, Sarampo, Meningoco e hemófilo invasivo, Coqueluche, Difteria, Tétano, Poliomielite, Varicela)(Passa um X na caxumba, pq não entra)
+- índromes febris (Dengue, Malária, Leptospirose, Hantavirose, Febre tifoide, Febre maculosa e ricketsioses, Febre do Nilo Ocidental)
+- (Prazo 24 horas para notificar município, município prazo 48 horas para responder)
+- nternacionais: VIPS (varíola, influenza, pólio/PFA, SARS)
+- studiosas (CRM, Chagas aguda, Rubéola, Meningite viral ou por meningococo)
+- ecora se der (Dengue óbito, Sarampo, Difteria)
+- nternacionais antigas (CPF - cólera, peste, febre amarela)
+- errorismo (botulismo, carbúnculo ou antraz, tularemia)
+- mais sem noção (Febre do Nilo Ocidental)
+- Raiva (BESTEIRAS R) (IMEDIATAS M)
+- Pacto pela vida - PRIORIDADES Pacto Saúde 2006
+- isco (pessoas em) risco de violência
+- nfantil e materna (mortalidade) infantil e materna
+- alador (saúde do trabalhador)
+- tenção básica (reforçar como porta de entrada)
+- ndêmicas emergentes (Dengue, Malária, Tuberculose, Hanseníase, Influenza, HBV, HIV)
+- Princípios de Humanização - especialidade de TIA
+- 8142: 2 coisas, gastos e participação social (conselhos e conferências)
+- NOB 93-partite: MS e NAs (CONASS e CONASEMS)
+- (ROAAs) NOAS 2001 e 2002: Regionalização organizada e ampliação da atenção ambulatorial
+- ÉTICOS/DOUTRINÁRIOS - começam com vogal(UIE)
+- niversalização - acesso a todos cidadãos(inclusive estrangeiros residentes)
+- ntegralidade - PREVENÇÃO, cura, reabilitação
+- quidade - NÃO é igualdade! este até existe na constituição(todos são iguais perante a lei). a equidade é pra atingir o equilíbrio, para tratar de forma desigual os desiguais, dando mais pra quem precisa mais.
+- OPERATIVOS - começam com consoantes.
+- escentralização - divisão de poder - federal, estadual, municipal - cada um tem seu papel
+- egionalização - municipalização - o município conhece seus problemas.
+- ierarquização - organizar os níveis de complexidade. mas a porta de entrada deve ser a unidade básica. (posto → hospital→diálise)
+- articipação social - conselhos/ conferências
+- esolubilidade - resolver os problemas - saúde é um dever do estado.
+- omplementariedade - contratar o privado caso não consiga prover assistência adequada
+- Lúpus farmacoinduzido - PHD
+- Necrose de papila - PHODA
+- IRC normal ou aumentado: PODE HFA
+- Prematuridade - PREMATURIDADHe
+- Internação pneumonia - DODOI REG
+- Desidratação SOPA - Sede Olho Prega Atenção
+- Notificação compulsória - BESTEIRAS
+- Notificação imediata - IMEDIATAS
+- Pacto pela vida - PRIORIDADES
+- PLINCípios PLINCipais do SUS - PLINCípios
+- Bradford-Hill - É CADA PEÇA
+- DPOC descompensação - ABCD
+- ioma + Anormalidades uterinas (útero septado, bicorno, IIC)
+- rina infectada (pielonefrite, cistite, bacteriúria assintomática), infecções bacterianas (DST, doença periodontal, vaginose bacteriana)
+- lhar! (exame especular, ver se está saindo líquido, Valsalva)
+- Amniosure (proteína placentária em secreção vaginal)
+- ichos loucos (vaca louco – Creudzfeltd-Jakob, pulga louca peste, peçonhentos (cobra, aranha), toxoplasmose em gestantes ou congênitas em unidades sentinela)
+- i (sífilis, SIDA, síndromes febris hemorrágicas, síndrome do corrimento uretral masculino, sinistra cólera)
+- errorismo (botulismo, carbúnculo ou antraz, tularemia, violência)
+- ndêmicas (esquistossomose, Chagas aguda, Hanseníase, acidentes de trabalho)
+- Internacionais (VIPs, varíola, influenza, Pólio, SARS, outras com risco internacional ou evento inesperado – febre amarela urbana por exemplo)
+- nticorpos (tuberculose, hepatites
+- índromes febris (Dengue, Leptospirose, Hantavirose, Febre tifoide, Febre maculosa, Febre do Nilo Ocidental)
+- ecora se der (Dengue tipo IV, Sarampo, Difteria)

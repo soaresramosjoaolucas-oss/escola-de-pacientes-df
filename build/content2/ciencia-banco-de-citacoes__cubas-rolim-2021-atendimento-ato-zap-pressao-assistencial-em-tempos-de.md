@@ -10,3 +10,8 @@ ESTEVAO
 acesso, acolhimento, e-health, estratégia saúde da família, mídias sociais
 
 [https://docs.google.com/document/d/1gSFpp1AfzSf62gL79ekOEa3P4mocOU7RO_q52BCWqQc/edit](https://docs.google.com/document/d/1gSFpp1AfzSf62gL79ekOEa3P4mocOU7RO_q52BCWqQc/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.brazilianjournals.com/index.php/BRJD/article/view/36479](https://www.brazilianjournals.com/index.php/BRJD/article/view/36479)
+

@@ -1,2 +1,9 @@
 
 # OMS 2017 NONCOMMUNICABLE DISEASES PROGRESS MONITOR
+
+WHO 2017 NONCOMMUNICABLE DISEASES PROGRESS MONITOR
+
+https://apps.who.int/iris/bitstream/handle/10665/258940/9789241513029-eng.pdf?sequence=1
+
+https://docs.google.com/document/d/1QVolj2lTwK5ML0VjFla3k5DpFfAkgEPV96W6Wy0PLQY/edit
+

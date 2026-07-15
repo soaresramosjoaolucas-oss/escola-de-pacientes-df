@@ -8,3 +8,8 @@ MARINA [https://static.scielo.org/scielobooks/dgjm7/pdf/villardi-9788579836626.p
 -
 
 [https://docs.google.com/document/d/1xvCjqb7XCGOCamFvKv-0cznHuKPGmn11S3WKskWRXpE/edit](https://docs.google.com/document/d/1xvCjqb7XCGOCamFvKv-0cznHuKPGmn11S3WKskWRXpE/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://static.scielo.org/scielobooks/dgjm7/pdf/villardi-9788579836626.pdf](https://static.scielo.org/scielobooks/dgjm7/pdf/villardi-9788579836626.pdf)
+

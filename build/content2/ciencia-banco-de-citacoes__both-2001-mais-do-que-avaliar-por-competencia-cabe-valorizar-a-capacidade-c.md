@@ -10,3 +10,8 @@ IVO [https://periodicos.pucpr.br/index.php/dialogoeducacional/article/viewFile/3
 habilidade; convivência
 
 [https://docs.google.com/document/d/1M_Q-PJ3rHXrZoRzVWBSfy9Qh5jtRL4FFMkAqUwMnYP4/edit](https://docs.google.com/document/d/1M_Q-PJ3rHXrZoRzVWBSfy9Qh5jtRL4FFMkAqUwMnYP4/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://periodicos.pucpr.br/index.php/dialogoeducacional/article/viewFile/3928/3844](https://periodicos.pucpr.br/index.php/dialogoeducacional/article/viewFile/3928/3844)
+

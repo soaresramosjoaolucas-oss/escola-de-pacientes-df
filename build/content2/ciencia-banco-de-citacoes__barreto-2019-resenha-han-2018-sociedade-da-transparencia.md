@@ -8,3 +8,8 @@ BARRETO 2019 RESENHA HAN 2018 SOCIEDADE DA TRANSPARENCIA
 MARIA CRISTINA
 
 [https://docs.google.com/document/d/1-bI-vq_CF-V1vGVlB-_XOB0viO2a8iyfq6moahWLNR0/edit](https://docs.google.com/document/d/1-bI-vq_CF-V1vGVlB-_XOB0viO2a8iyfq6moahWLNR0/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[http://www.cchla.ufpb.br/rbse/BarretoResenha_RBSEv18n54dez2019.pdf](http://www.cchla.ufpb.br/rbse/BarretoResenha_RBSEv18n54dez2019.pdf)
+

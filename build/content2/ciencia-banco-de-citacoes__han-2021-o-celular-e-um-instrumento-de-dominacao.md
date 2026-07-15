@@ -8,3 +8,8 @@ HAN 2021 O CELULAR E UM INSTRUMENTO DE DOMINACAO
 BYUNG-CHUL
 
 [https://docs.google.com/document/d/1kUti418u5QaBMZZkOvIjTa-ZZLTdAQm2lV_LhHiAONw/edit](https://docs.google.com/document/d/1kUti418u5QaBMZZkOvIjTa-ZZLTdAQm2lV_LhHiAONw/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://brasil.elpais.com/cultura/2021-10-09/byung-chul-han-o-celular-e-um-instrumento-de-dominacao-age-como-um-rosario.html](https://brasil.elpais.com/cultura/2021-10-09/byung-chul-han-o-celular-e-um-instrumento-de-dominacao-age-como-um-rosario.html)
+

@@ -1,2 +1,15 @@
 
 # DAUD 2020 The EMPOWER-SUSTAIN e-Health Intervention to improve patient activation and self-management behaviours among individuals with Metabolic Syndrome in primary care: study protocol for a pilot randomised controlled trial
+
+https://www.researchgate.net/publication/340449868_The_EMPOWER-SUSTAIN_e-Health_Intervention_to_improve_patient_activation_and_self-management_behaviours_among_individuals_with_Metabolic_Syndrome_in_primary_care_study_protocol_for_a_pilot_randomised_c
+
+E-saúde intervenção, autogestão, ativação do paciente, modelo de cuidados crônicos, doença crônica
+
+gestão, intervenção multifacetada, síndrome metabólica, cuidados primários
+
+https://docs.google.com/document/d/1vlSc3tSbK5l4deVFqa38N2rEcbuRk9ElgNZiKfC9z3o/edit
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.researchgate.net/publication/340449868_The_EMPOWER-SUSTAIN_e-Health_Intervention_to_improve_patient_activation_and_self-management_behaviours_among_individuals_with_Metabolic_Syndrome_in_primary_care_study_protocol_for_a_pilot_randomised_c](https://www.researchgate.net/publication/340449868_The_EMPOWER-SUSTAIN_e-Health_Intervention_to_improve_patient_activation_and_self-management_behaviours_among_individuals_with_Metabolic_Syndrome_in_primary_care_study_protocol_for_a_pilot_randomised_c)
+

@@ -10,3 +10,8 @@ FERNANDO
 Educação médica; Currículo; Educação de graduação em medicina
 
 [https://docs.google.com/document/d/1eYFHtH1r9ATryMNfSEbb1WlDxg-tZ8aNGr0T78qXhsc/edit](https://docs.google.com/document/d/1eYFHtH1r9ATryMNfSEbb1WlDxg-tZ8aNGr0T78qXhsc/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/rbem/a/QDYhmRx5LgVNSwKDKqRyBTy/?lang=pt&format=pdf](https://www.scielo.br/j/rbem/a/QDYhmRx5LgVNSwKDKqRyBTy/?lang=pt&format=pdf)
+

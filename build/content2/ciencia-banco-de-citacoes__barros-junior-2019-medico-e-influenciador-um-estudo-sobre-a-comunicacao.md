@@ -14,3 +14,8 @@ Roldão
 comunicação em saúde; medicina; mídias sociais; instagram; LGBTI+.
 
 [https://docs.google.com/document/d/1RO2z-XJpQcoXyjG2ptZvELPCg1tM0fbG6PCY-x9gJSE/edit?usp=sharing](https://docs.google.com/document/d/1RO2z-XJpQcoXyjG2ptZvELPCg1tM0fbG6PCY-x9gJSE/edit?usp=sharing)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://portalintercom.org.br/anais/centrooeste2019/resumos/R66-0210-1.pdf](https://portalintercom.org.br/anais/centrooeste2019/resumos/R66-0210-1.pdf)
+

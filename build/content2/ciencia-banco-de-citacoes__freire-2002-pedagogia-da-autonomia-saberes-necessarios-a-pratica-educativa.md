@@ -10,3 +10,8 @@ PAULO
 -
 
 [https://docs.google.com/document/d/1cX76OXpHg-Cn0eK7ZvgJ3Xwq5j216TiyotjCV7Z8w4k/edit](https://docs.google.com/document/d/1cX76OXpHg-Cn0eK7ZvgJ3Xwq5j216TiyotjCV7Z8w4k/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[http://www.apeoesp.org.br/sistema/ck/files/4-%20Freire_P_%20Pedagogia%20da%20autonomia.pdf](http://www.apeoesp.org.br/sistema/ck/files/4-%20Freire_P_%20Pedagogia%20da%20autonomia.pdf)
+

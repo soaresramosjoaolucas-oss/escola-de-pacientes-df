@@ -10,3 +10,8 @@ AURORA [https://www.researchgate.net/publication/282975023_Politicas_de_Alfabeti
 e-Education.
 
 " [https://docs.google.com/document/d/1cT6JBSw-t09VBm4KxEdF3y6jJpdPcskvSNGQBTqiQSg/edit](https://docs.google.com/document/d/1cT6JBSw-t09VBm4KxEdF3y6jJpdPcskvSNGQBTqiQSg/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.researchgate.net/publication/282975023_Politicas_de_Alfabetizacion_en_Informacion_en_la_Union_Europea/link/5624bc9d08ae93a5c92cc1cb/download](https://www.researchgate.net/publication/282975023_Politicas_de_Alfabetizacion_en_Informacion_en_la_Union_Europea/link/5624bc9d08ae93a5c92cc1cb/download)
+

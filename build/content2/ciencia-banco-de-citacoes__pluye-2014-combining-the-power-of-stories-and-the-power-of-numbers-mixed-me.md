@@ -10,3 +10,8 @@ epistemologia, avaliação crítica, metodologia, métodos mistos, sistemática
 revisão da literatura
 
 [https://docs.google.com/document/d/1X-jM6c-hCjvqEr4MYe5ELomhxVXwPHYWjjAQnrd24dw/edit](https://docs.google.com/document/d/1X-jM6c-hCjvqEr4MYe5ELomhxVXwPHYWjjAQnrd24dw/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.annualreviews.org/doi/10.1146/annurev-publhealth-032013-182440?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-032013-182440?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed)
+

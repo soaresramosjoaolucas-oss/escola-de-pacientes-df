@@ -10,3 +10,8 @@ Livia
 Estratégia Saúde da Família; Atenção Básica; Educação Permanente; Avaliação em Saúde; Gestão da Qualidade em Saúde
 
 [https://docs.google.com/document/d/1jaQhn_4vudbh8PzWFr5zoUXikvWycmm-e_KWKJF-A6E/edit](https://docs.google.com/document/d/1jaQhn_4vudbh8PzWFr5zoUXikvWycmm-e_KWKJF-A6E/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-55022020000100301&lng=pt&nrm=iso&tlng=pt](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-55022020000100301&lng=pt&nrm=iso&tlng=pt)
+

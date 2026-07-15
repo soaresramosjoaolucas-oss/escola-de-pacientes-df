@@ -22,3 +22,8 @@ Estilo de vida
 Cuidados pessoais
 
 [https://docs.google.com/document/d/1MEXVr0iCqNKPbq87C5gfF-i1YMa-1Pm5M_6-LWLe-I8/edit](https://docs.google.com/document/d/1MEXVr0iCqNKPbq87C5gfF-i1YMa-1Pm5M_6-LWLe-I8/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://pubmed.ncbi.nlm.nih.gov/30690164/](https://pubmed.ncbi.nlm.nih.gov/30690164/)
+

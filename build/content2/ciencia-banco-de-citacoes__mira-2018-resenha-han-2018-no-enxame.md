@@ -8,3 +8,8 @@ MIRA 2018 RESENHA HAN 2018 NO ENXAME
 BRUNO
 
 [https://docs.google.com/document/d/1u6-GYGwU-bFsQubmu4BOrwfZbujtiVxQGaaStfsNxFA/edit](https://docs.google.com/document/d/1u6-GYGwU-bFsQubmu4BOrwfZbujtiVxQGaaStfsNxFA/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://periodicos.unifap.br/index.php/pracs/article/download/6226/brunov13n4.pdf](https://periodicos.unifap.br/index.php/pracs/article/download/6226/brunov13n4.pdf)
+

@@ -8,3 +8,9 @@ GOMES 2020 TRADUÇÃO E INTERPRETAÇÃO EDUCACIONAL DE LIBRAS-LÍNGUA PORTUGUESA
 [https://docs.google.com/document/d/1nhDU1M2uiXZYflJW9ASU4sSOX9A0aFlu5_WKBrpnZdc/edit](https://docs.google.com/document/d/1nhDU1M2uiXZYflJW9ASU4sSOX9A0aFlu5_WKBrpnZdc/edit)
 
 [EMBED: YouTube Video, GOMES 2020 TRADUÇÃO E INTERPRETAÇÃO EDUCACIONAL DE LIBRAS-LÍNGUA PORTUGUESA NO ENSINO SUPERIOR](https://www.youtube.com/embed/MrC1I2ZDIIg?embed_config=%7B%22enc%22:%22AXH1eznqIMtGo20JqaYp8Z3GqD6tbabK0NBSRVsNzE45-clHChvETmNpMYNGFKBojDZuKxKF5KtEOzgAZkGpCiiHkuf2sOmbm0pHgEOWD_nzgfvHzJ0r1KYBrxrh7YUv0H6mqVgT5-xeJCl3EXg7jwf6-px6ANTbG6FbtO6KD6NEQJoHRkQo30iOSAkFBXt_hFvw9kh3MvLVEfjRmE29dL1BcTZssKJs5VbyOB_El1MVDtTF099VcyzOVeVDxcMFUprmxLr3J3WxyuJnAkfGhAi5NwrRPySlzOFHze0V9PJYQ-OhSzZtINFEFmWEyp0uecGmjt5fns5WVWjWjCBsPmsIS6ZhsRnAI290F_tRYgkux65zfO6dY9N7k92eLyNTLHuTrm6ZIqgqNCCWIQ%3D%3D%22%7D&enablejsapi=1&errorlinks=1&vl=1)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/tla/a/PR6PwJ8r3dsgJX7xyMLbSpF/?lang=pt](https://www.scielo.br/j/tla/a/PR6PwJ8r3dsgJX7xyMLbSpF/?lang=pt)
+
+[EMBED: Vídeo relacionado](https://www.youtube.com/embed/MrC1I2ZDIIg)

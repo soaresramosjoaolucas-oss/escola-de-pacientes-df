@@ -12,3 +12,8 @@ Pugie
 [https://doi.org/10.4102/safp.v62i1.5039](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.4102%2Fsafp.v62i1.5039&sa=D&sntz=1&usg=AOvVaw1KDRS5daHaeV5En_h3rJOA)
 
 [https://docs.google.com/document/d/1mMF4WlPDmgg7fbqVnQsPIQ946PFyqku35X2TDFlOFrM/edit](https://docs.google.com/document/d/1mMF4WlPDmgg7fbqVnQsPIQ946PFyqku35X2TDFlOFrM/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://doi.org/10.4102/safp.v62i1.5039](https://doi.org/10.4102/safp.v62i1.5039)
+

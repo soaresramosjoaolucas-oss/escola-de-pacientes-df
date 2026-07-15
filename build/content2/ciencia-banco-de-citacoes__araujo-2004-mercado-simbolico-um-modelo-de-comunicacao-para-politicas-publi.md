@@ -10,3 +10,8 @@ INESITA
 Comunicação e políticas públicas; modelos de comunicação; planejamento estratégico.
 
 [https://docs.google.com/document/d/10_H3C4fmCzt1lr510bGkhAhvbDpQTyTT7MH4HlIks1g/edit](https://docs.google.com/document/d/10_H3C4fmCzt1lr510bGkhAhvbDpQTyTT7MH4HlIks1g/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/icse/a/mXPrpPYcQxGMCJZ3jN9CHGB/?lang=pt](https://www.scielo.br/j/icse/a/mXPrpPYcQxGMCJZ3jN9CHGB/?lang=pt)
+

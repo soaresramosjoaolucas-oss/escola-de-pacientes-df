@@ -8,3 +8,8 @@ SANDRA [https://www.scielo.br/j/csc/a/9M86Ktp3vpHgMxWTZXScRKS/?format=pdf&lang=p
 "Metodologias ativas de ensinoaprendizagem, Problematização, Aprendizagem
 
 baseada em problemas, Trabalho em saúde" [https://docs.google.com/document/d/1cqhODMWf0rXO1qL556mOJMvZ6RB-Qhw-w2O1jBjSnWc/edit](https://docs.google.com/document/d/1cqhODMWf0rXO1qL556mOJMvZ6RB-Qhw-w2O1jBjSnWc/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/csc/a/9M86Ktp3vpHgMxWTZXScRKS/?format=pdf&lang=pt](https://www.scielo.br/j/csc/a/9M86Ktp3vpHgMxWTZXScRKS/?format=pdf&lang=pt)
+

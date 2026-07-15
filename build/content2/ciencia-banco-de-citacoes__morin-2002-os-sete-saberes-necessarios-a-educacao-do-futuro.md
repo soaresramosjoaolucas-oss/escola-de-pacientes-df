@@ -10,3 +10,8 @@ EDGAR
 -
 
 [https://docs.google.com/document/d/18nklnLuZPV_BeIgTGAthneXEmdqYQCDxIAS2qZ5cv_4/edit](https://docs.google.com/document/d/18nklnLuZPV_BeIgTGAthneXEmdqYQCDxIAS2qZ5cv_4/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[http://portal.mec.gov.br/seb/arquivos/pdf/EdgarMorin.pdf](http://portal.mec.gov.br/seb/arquivos/pdf/EdgarMorin.pdf)
+

@@ -12,3 +12,8 @@ relatório do Comitê para aconselhar o Conselho de Educação da Austrália e M
 competências para educação pós-compulsória e treinamento
 
 [https://docs.google.com/document/d/19fiwugubx4g4NYFpp7LyAqxa9jUqu0TdUmHBJGCF4XI/edit](https://docs.google.com/document/d/19fiwugubx4g4NYFpp7LyAqxa9jUqu0TdUmHBJGCF4XI/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[http://148.202.167.116/portal/sites/default/files/adjuntos/normas_anziil.pdf](http://148.202.167.116/portal/sites/default/files/adjuntos/normas_anziil.pdf)
+

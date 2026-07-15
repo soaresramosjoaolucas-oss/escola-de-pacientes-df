@@ -10,3 +10,8 @@ ANA VALERIA
 Ciência da Informação; Tecnologias para a Informação e Comunicação; Inclusão Digital; Processo de Comunicação; Recepção e Mediação.
 
 [https://docs.google.com/document/d/1vRCR6QXb1Z6o4ri-eS6k-iAds-VYoU-87TMFrZOgUug/edit](https://docs.google.com/document/d/1vRCR6QXb1Z6o4ri-eS6k-iAds-VYoU-87TMFrZOgUug/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://repositorio.unb.br/handle/10482/1080](https://repositorio.unb.br/handle/10482/1080)
+

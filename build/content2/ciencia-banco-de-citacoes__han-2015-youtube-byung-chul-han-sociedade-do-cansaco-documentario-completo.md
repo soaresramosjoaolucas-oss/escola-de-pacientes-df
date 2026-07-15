@@ -10,3 +10,9 @@ Byung-Chul Han Sociedade do Cansaco Documentario Completo [https://www.youtube.c
 YOUTUBE
 
 [https://docs.google.com/document/d/1fLMIygWhzUHM5SjitrTvtg2y1EdK6W4B/edit?usp=sharing&ouid=105226064234005732640&rtpof=true&sd=true](https://docs.google.com/document/d/1fLMIygWhzUHM5SjitrTvtg2y1EdK6W4B/edit?usp=sharing&ouid=105226064234005732640&rtpof=true&sd=true)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.youtube.com/watch?v=VbPvH515KoY&t=294s](https://www.youtube.com/watch?v=VbPvH515KoY&t=294s)
+
+[EMBED: Vídeo relacionado](https://www.youtube.com/embed/B0EagGGmYCg)

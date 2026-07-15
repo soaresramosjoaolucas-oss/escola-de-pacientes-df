@@ -1,2 +1,13 @@
 
 # JIAO 2018 A comparison of learning obstacles and teaching style preferences of international students from South Asia with local students of medical school in China
+
+https://www.researchgate.net/publication/335715542_A_comparison_of_learning_obstacles_and_teaching_style_preferences_of_international_students_from_South_Asia_with_local_students_of_medical_school_in_China
+
+Educação básica em ciências, obstáculos de aprendizagem, fisiologia, Sul da Ásia alunos, preferência de estilo de ensino.
+
+https://docs.google.com/document/d/1x2c9JtPX61eFDCMLOwPO-2-9c9Uc3vlHvvHwb3PE4lc/edit
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.researchgate.net/publication/335715542_A_comparison_of_learning_obstacles_and_teaching_style_preferences_of_international_students_from_South_Asia_with_local_students_of_medical_school_in_China](https://www.researchgate.net/publication/335715542_A_comparison_of_learning_obstacles_and_teaching_style_preferences_of_international_students_from_South_Asia_with_local_students_of_medical_school_in_China)
+

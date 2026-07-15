@@ -10,3 +10,8 @@ Aastha
 Hipertensão, tecnologia, intervenções, gestão, educação
 
 [https://docs.google.com/document/d/1gWkjZRs8rB2p-l1NF-7ATeJ0umCwgPJlDYeYSnLeZ_0/edit](https://docs.google.com/document/d/1gWkjZRs8rB2p-l1NF-7ATeJ0umCwgPJlDYeYSnLeZ_0/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://pubmed.ncbi.nlm.nih.gov/25515051/](https://pubmed.ncbi.nlm.nih.gov/25515051/)
+

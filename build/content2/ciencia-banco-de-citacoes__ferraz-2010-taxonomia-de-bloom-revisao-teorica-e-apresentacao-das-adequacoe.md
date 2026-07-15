@@ -10,3 +10,8 @@ ANA PAULA
 Ensino de engenharia; Taxonomia de Bloom; Objetivos instrucionais; Desenvolvimento cognitivo; Processo cognitivo
 
 [https://docs.google.com/document/d/1-7U0Mr3bZX3XqauR_CU6uLuJDEK9n2eXM9WvR-MUX1U/edit](https://docs.google.com/document/d/1-7U0Mr3bZX3XqauR_CU6uLuJDEK9n2eXM9WvR-MUX1U/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielo.br/j/gp/a/bRkFgcJqbGCDp3HjQqFdqBm/abstract/?lang=pt](https://www.scielo.br/j/gp/a/bRkFgcJqbGCDp3HjQqFdqBm/abstract/?lang=pt)
+

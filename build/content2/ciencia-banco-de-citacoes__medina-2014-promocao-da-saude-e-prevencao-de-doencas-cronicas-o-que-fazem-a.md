@@ -10,3 +10,8 @@ Maria Guadalupe
 Avaliação em saúde; Promoção da saúde; Atenção Primária à Saúde; Doença crônica; Estratégia Saúde da Família.
 
 [https://docs.google.com/document/d/1rkKEmO6IUZcSwGA5fxKKYnLItxh4qGFr-HaVIC5xYIY/edit](https://docs.google.com/document/d/1rkKEmO6IUZcSwGA5fxKKYnLItxh4qGFr-HaVIC5xYIY/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://www.scielosp.org/article/sdeb/2014.v38nspe/69-82/](https://www.scielosp.org/article/sdeb/2014.v38nspe/69-82/)
+

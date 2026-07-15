@@ -10,3 +10,8 @@ ALDO [https://pdfs.semanticscholar.org/c587/b89e02f44cdd7fe70b0f1c9b43ca870b6207
 informação; Comunicação eletrônica"
 
 [https://docs.google.com/document/d/145YLock0eCM086iQmn1FLapR1aC9GqTtysCERAXrfS8/edit](https://docs.google.com/document/d/145YLock0eCM086iQmn1FLapR1aC9GqTtysCERAXrfS8/edit)
+
+ACESSAR A PUBLICAÇÃO
+
+[https://pdfs.semanticscholar.org/c587/b89e02f44cdd7fe70b0f1c9b43ca870b6207.pdf](https://pdfs.semanticscholar.org/c587/b89e02f44cdd7fe70b0f1c9b43ca870b6207.pdf)
+
