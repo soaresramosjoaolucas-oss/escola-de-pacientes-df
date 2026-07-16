@@ -7,11 +7,13 @@ ONDE COMEÇAR
 Se você não sabe por onde começar, esses três caminhos já resolvem a maior parte das dúvidas.
 
 - [Canal no YouTube](https://www.youtube.com/channel/UCMiHRdmhduWggK_c-UYEbLQ) — vídeos curtos de educação em saúde
+- [Instagram — Luz, Câmera, Saúde](/instagram) — vídeos e imagens de saúde baseados em evidências
 - [Impressos de Educação em Saúde](/impressos-de-educacao-em-saude) — materiais para imprimir e levar para casa
 - [Pasta de orientações](https://bit.ly/2BM7eVp) — anexos e materiais de apoio
 
 VÍDEOS E PODCASTS
 
+- [Instagram — Luz, Câmera, Saúde](/instagram)
 - [Vídeos de Saúde nas Mídias Sociais](/videos-de-saude-nas-midias-sociais)
 - [Pra Ouvir e Refletir — Podcasts](/pra-ouvir-e-refletir-podcasts)
 

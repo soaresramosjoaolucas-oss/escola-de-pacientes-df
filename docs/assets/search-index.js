@@ -360,6 +360,7 @@ window.SEARCH_INDEX = [
 {"t":"ICASE 2026","p":"icase-2026","c":"A Escola"},
 {"t":"Impressos de Educação em Saúde","p":"impressos-de-educacao-em-saude","c":"Educação em Saúde"},
 {"t":"Insônia","p":"insonia","c":"Temas Clínicos"},
+{"t":"Instagram — Luz, Câmera, Saúde","p":"instagram","c":"Projetos e Produtos"},
 {"t":"IVAS e COVID","p":"ivas-covid","c":"Temas Clínicos"},
 {"t":"Lavagem Nasal","p":"lavagem-nasal","c":"Temas Clínicos"},
 {"t":"Liga MFC UnB","p":"liga-mfc-unb","c":"Ensino UnB"},

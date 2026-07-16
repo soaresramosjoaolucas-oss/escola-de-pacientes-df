@@ -58,6 +58,7 @@ my @NAV = (
         ['prescreva-um-livro', 'Prescreva um Livro'],
         ['escola-saudavel', 'Escola Saudável'],
         ['youtube', 'Canal no YouTube'],
+        ['instagram', 'Instagram — Luz, Câmera, Saúde'],
         ['impressos-de-educacao-em-saude', 'Materiais Educativos'],
     ]},
     { label => 'Comece por aqui', items => [
@@ -193,6 +194,7 @@ sub link_icon {
     my ($u) = @_;
     return '📝' if $u =~ m{forms\.gle|docs\.google\.com/forms};
     return '▶️' if $u =~ m{youtube\.com|youtu\.be|globoplay|tvbrasil|video};
+    return '📸' if $u =~ m{instagram\.com};
     return '🤖' if $u =~ m{chatgpt\.com|chat\.openai};
     return '📄' if $u =~ m{drive\.google|docs\.google|\.pdf};
     return '🔗';
@@ -440,6 +442,7 @@ sub footer_html {
 <h4>Recursos</h4>
 <ul>
 <li><a href="https://www.youtube.com/channel/UCMiHRdmhduWggK_c-UYEbLQ" target="_blank" rel="noopener">Canal no YouTube</a></li>
+<li><a href="https://www.instagram.com/unidosnobem_estar" target="_blank" rel="noopener">Instagram</a></li>
 <li><a href="https://bit.ly/2BM7eVp" target="_blank" rel="noopener">Pasta de orientações</a></li>
 <li><a href="https://bit.ly/30gwCfu" target="_blank" rel="noopener">Pasta de atendimento</a></li>
 <li><a href="http://lattes.cnpq.br/3012202638503151" target="_blank" rel="noopener">Currículo Lattes</a></li>
