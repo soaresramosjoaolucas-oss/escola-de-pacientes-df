@@ -202,9 +202,9 @@ sub link_icon {
 sub link_card_html {
     my ($l, $p) = @_;
     my ($label, $text, $url);
-    if    ($l =~ /^\[([^\]]+)\]\((\S+)\)\s*[-–—:.]?\s*$/)                    { ($text, $url) = ($1, $2); }
-    elsif ($l =~ /^([^\[\]]{2,80}?)\s*[:\-–—]\s*\[([^\]]*)\]\((\S+)\)\s*$/) { ($label, $text, $url) = ($1, $2, $3); }
-    elsif ($l =~ /^([^\[\]]{2,80}?)\s*[:\-–—]\s*(https?:\/\/\S+)\s*$/)      { ($label, $url) = ($1, $2); $text = ''; }
+    if    ($l =~ /^\[([^\]]+)\]\((\S+)\)\s*[-–—:.]?\s*$/)                     { ($text, $url) = ($1, $2); }
+    elsif ($l =~ /^([^\[\]]{2,200}?)\s*[:\-–—]\s*\[([^\]]*)\]\((\S+)\)\s*$/) { ($label, $text, $url) = ($1, $2, $3); }
+    elsif ($l =~ /^([^\[\]]{2,200}?)\s*[:\-–—]\s*(https?:\/\/\S+)\s*$/)      { ($label, $url) = ($1, $2); $text = ''; }
     else { return; }
     my $href = clean_url($url, $p);
     my $ext = $href =~ m{^https?://} ? ' target="_blank" rel="noopener"' : '';
