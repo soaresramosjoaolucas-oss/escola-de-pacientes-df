@@ -41,7 +41,7 @@ my @group_order = ('Doenças crônicas', 'Saúde da mulher e pré-natal', 'Saúd
 # menu principal curado — vitrine, não inventário
 my @NAV = (
     { label => 'A Escola', items => [
-        ['boas-vindas', 'Quem somos'],
+        ['boas-vindas', 'Boas-vindas'],
         ['dr-estevao-rolim', 'Dr. Estêvão Rolim'],
         ['equipe', 'Equipe e Grupo de Pesquisa'],
         ['premios', 'Prêmios e Reconhecimentos'],
@@ -195,7 +195,7 @@ sub link_icon {
     return '📝' if $u =~ m{forms\.gle|docs\.google\.com/forms};
     return '▶️' if $u =~ m{youtube\.com|youtu\.be|globoplay|tvbrasil|video};
     return '📸' if $u =~ m{instagram\.com};
-    return '🤖' if $u =~ m{chatgpt\.com|chat\.openai};
+    return '🤖' if $u =~ m{chatgpt\.com|chat\.openai|g\.co/gemini|gemini\.google};
     return '📄' if $u =~ m{drive\.google|docs\.google|\.pdf};
     return '🔗';
 }
@@ -349,16 +349,10 @@ sub md_to_html {
     }
     push @html, '</ul>' if $inlist;
     push @html, '</div>' if $ingrid;
-    # remove subtítulos órfãos (h3 sem conteúdo até o próximo título ou o fim)
-    my @out;
-    for (my $k = 0; $k <= $#html; $k++) {
-        if ($html[$k] =~ /^<h3>/) {
-            my $nx = $k + 1 <= $#html ? $html[$k + 1] : '';
-            next if $nx eq '' or $nx =~ /^<h[23]>/;
-        }
-        push @out, $html[$k];
-    }
-    return join "\n", @out;
+    # remove subtítulo órfão apenas no fim da página (sem nada depois dele);
+    # um h3 seguido de outro h3 é um título de grupo legítimo e é mantido
+    pop @html while @html && $html[-1] =~ /^<h3>/;
+    return join "\n", @html;
 }
 
 # ---------------- navegação ----------------

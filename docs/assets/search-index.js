@@ -6,7 +6,7 @@ window.SEARCH_INDEX = [
 {"t":"Amamentação","p":"amamentacao","c":"Temas Clínicos"},
 {"t":"Asma","p":"asma","c":"Temas Clínicos"},
 {"t":"Assédio Sexual","p":"assedio-sexual","c":"Temas Clínicos"},
-{"t":"Quem somos","p":"boas-vindas","c":"A Escola"},
+{"t":"Boas-vindas","p":"boas-vindas","c":"A Escola"},
 {"t":"Bolsas","p":"bolsas","c":"Ensino UnB"},
 {"t":"Calçada de Versos e Conselhos","p":"calcada-de-versos-e-conselhos","c":"Educação em Saúde"},
 {"t":"Infarto do Miocárdio","p":"cardio-infarto-do-miocardio","c":"Temas Clínicos"},
