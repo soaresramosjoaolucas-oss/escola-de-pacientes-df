@@ -4,21 +4,25 @@ Seja bem-vindo(a) à Escola de Pacientes!
 
 Nesta página, você encontrará os principais materiais e orientações para conhecer melhor o grupo, entender seu funcionamento e acessar conteúdos úteis para sua jornada.
 
-COMECE POR AQUI
-
-- Manual do membro — um guia completo para entender o funcionamento da Escola de Pacientes: [Manual do membro](https://docs.google.com/document/d/1CEBbe9gZFT8h4YCmZVrm6SJoJWOO6WBeNsJBvfuaKsE/edit?usp=sharing)
-- SANTA-IA — tem alguma dúvida? Pergunte à assistente do grupo: [SANTA-IA](https://g.co/gemini/share/131babc1b9d3h)
-- Guia em vídeo (Notebook LM) — o funcionamento da Escola explicado em vídeo: [Assistir no YouTube](https://youtu.be/vo6RrBsR-A0)
-
 MANUAL DO MEMBRO
 
-O documento oficial de orientação para novos membros, sempre atualizado:
+Um guia completo para entender o funcionamento da Escola de Pacientes!
 
 [EMBED: Document, Manual do membro — Escola de Pacientes](https://docs.google.com/document/d/1CEBbe9gZFT8h4YCmZVrm6SJoJWOO6WBeNsJBvfuaKsE/preview)
 
-GUIA EM VÍDEO
+Prefere abrir em outra aba? [Manual do membro](https://docs.google.com/document/d/1CEBbe9gZFT8h4YCmZVrm6SJoJWOO6WBeNsJBvfuaKsE/edit?usp=sharing)
 
-[EMBED: YouTube Video, Um guia completo para entender o funcionamento da Escola de Pacientes](https://www.youtube.com/embed/vo6RrBsR-A0)
+SANTA-IA
+
+Tem alguma dúvida sobre o grupo de pesquisa? Pergunte à SANTA-IA, a assistente de inteligência artificial da Escola de Pacientes:
+
+[Perguntar à SANTA-IA](https://g.co/gemini/share/131babc1b9d3h)
+
+IAS — NOTEBOOK LM
+
+Vídeo explicando um pouco mais sobre o Notebook LM e como usá-lo nos estudos do grupo:
+
+[EMBED: YouTube Video, Notebook LM — Escola de Pacientes](https://www.youtube.com/embed/vo6RrBsR-A0)
 
 SOBRE O GRUPO
 

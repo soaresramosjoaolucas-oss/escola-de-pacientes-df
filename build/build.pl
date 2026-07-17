@@ -556,13 +556,18 @@ $body_html
 </div></article>
 HTML
 
-    # tema de cor por público (paleta Notion)
+    # tema de cor por página
     my %tema = (
         'para-pacientes'     => 'theme-verde',
         'para-estudantes'    => 'theme-azul',
         'para-pesquisadores' => 'theme-roxo',
         'para-profissionais' => 'theme-laranja',
+        'boas-vindas'        => 'theme-teal',
     );
+    # confetes de boas-vindas 🎉
+    my $extra = $path eq 'boas-vindas'
+        ? qq{<script src="${p}assets/confetti.js" defer></script>}
+        : '';
 
     write_file("$OUT/$path/index.html", page_shell(
         title  => esc($title) . " — $SITE",
@@ -572,6 +577,7 @@ HTML
         body   => $body,
         footer => footer_html($p),
         body_class => $tema{$path} // '',
+        head_extra => $extra,
     ));
     $n++;
 }
