@@ -2,12 +2,28 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qualis Saúde Coletiva — Escola de Pacientes DF</title>
 <meta name="description" content="Qualis Saúde Coletiva — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<link rel="canonical" href="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/ciencia-qualis-saude-coletiva/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Escola de Pacientes DF">
+<meta property="og:title" content="Qualis Saúde Coletiva — Escola de Pacientes DF">
+<meta property="og:description" content="Qualis Saúde Coletiva — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta property="og:url" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/ciencia-qualis-saude-coletiva/">
+<meta property="og:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Qualis Saúde Coletiva — Escola de Pacientes DF">
+<meta name="twitter:description" content="Qualis Saúde Coletiva — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta name="twitter:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="icon" href="../assets/img/logo.png">
 
@@ -51,10 +67,10 @@
 </li>
 <li><a href="../para-pacientes/">Comece por aqui <span class="caret">▾</span></a>
 <div class="dropdown">
-<a href="../para-pacientes/">🧑‍🦱 Pacientes e Comunidade</a>
-<a href="../para-estudantes/">🎓 Estudantes</a>
-<a href="../para-pesquisadores/">🔬 Pesquisadores</a>
-<a href="../para-profissionais/">🩺 Profissionais e Gestores</a>
+<a href="../para-pacientes/"><span class="msym">diversity_3</span> Pacientes e Comunidade</a>
+<a href="../para-estudantes/"><span class="msym">school</span> Estudantes</a>
+<a href="../para-pesquisadores/"><span class="msym">science</span> Pesquisadores</a>
+<a href="../para-profissionais/"><span class="msym">stethoscope</span> Profissionais e Gestores</a>
 </div>
 </li>
 <li><a href="../publicacoes/" aria-current="page">Ciência <span class="caret">▾</span></a>
@@ -78,6 +94,7 @@
 </div>
 </li>
 </ul>
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="../">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -295,49 +312,49 @@
 <p>11. SUMÁRIOS - www.sumarios.org</p>
 <p>Nacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://www.ncbi.nlm.nih.gov/sites/entrez/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>12. MEDLINE/Index Medicus</b><small>ncbi.nlm.nih.gov</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.ncbi.nlm.nih.gov/sites/entrez/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>12. MEDLINE/Index Medicus</b><small>ncbi.nlm.nih.gov</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://www.scopus.com/scopus/home.url" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>13. SCOPUS</b><small>scopus.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.scopus.com/scopus/home.url" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>13. SCOPUS</b><small>scopus.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://apps.isiknowledge.com/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>14. ISI/Thomson databases</b><small>apps.isiknowledge.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://apps.isiknowledge.com/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>14. ISI/Thomson databases</b><small>apps.isiknowledge.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://www.gale.cengage.com/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>15. Gale Cengage Learning</b><small>gale.cengage.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.gale.cengage.com/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>15. Gale Cengage Learning</b><small>gale.cengage.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://www.ebscohost.com/academic/ebscohost/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>16. EBSCO Publishing</b><small>ebscohost.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.ebscohost.com/academic/ebscohost/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>16. EBSCO Publishing</b><small>ebscohost.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://admin-apps.webofknowledge.com/JCR/JCR?RQ=HOME" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>17. Journal Citation Reports (JCR)</b><small>admin-apps.webofknowledge.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://admin-apps.webofknowledge.com/JCR/JCR?RQ=HOME" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>17. Journal Citation Reports (JCR)</b><small>admin-apps.webofknowledge.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <p>18. Diretórios de Cabell- Cabell’s Directories of Publishing Opportunities - www.cabells.com</p>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://drji.org/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>19. DRJI- DIRECTORY OF RESEARCH JOURNAL INDEXING</b><small>drji.org</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://drji.org/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>19. DRJI- DIRECTORY OF RESEARCH JOURNAL INDEXING</b><small>drji.org</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://www.erevistas.csic.es/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>20. E- REVIST@S- PLATAFORMA DE OPEN ACCESS DE REVISTAS CIENTÍFICAS ESPAÑOLAS Y LATINOAMERINCANAS</b><small>erevistas.csic.es</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.erevistas.csic.es/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>20. E- REVIST@S- PLATAFORMA DE OPEN ACCESS DE REVISTAS CIENTÍFICAS ESPAÑOLAS Y LATINOAMERINCANAS</b><small>erevistas.csic.es</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://thomsonreuters.com/social-sciences-citation-index/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>21. SSCI- SOCIAL SCIENCES CITATION INDEX</b><small>thomsonreuters.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://thomsonreuters.com/social-sciences-citation-index/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>21. SSCI- SOCIAL SCIENCES CITATION INDEX</b><small>thomsonreuters.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="http://www.proquest.com/" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>22. ProQuest- Databases, EBooks and Technology for Research</b><small>proquest.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.proquest.com/" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>22. ProQuest- Databases, EBooks and Technology for Research</b><small>proquest.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 <div class="link-grid">
-<a class="link-card" href="https://www.1science.com" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>23. 1 Science – Advanced Research Information Systems</b><small>1science.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://www.1science.com" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>23. 1 Science – Advanced Research Information Systems</b><small>1science.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Internacional</p>
 </div></article>
@@ -390,5 +407,7 @@
 <script src="../assets/search-index.js" defer></script>
 <script src="../assets/search.js" defer></script>
 <script src="../assets/reveal.js" defer></script>
+<script src="../assets/theme.js" defer></script>
+<script src="../assets/toc.js" defer></script>
 </body>
 </html>

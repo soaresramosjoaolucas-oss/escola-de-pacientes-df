@@ -2,12 +2,28 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>eLegis — Escola de Pacientes DF</title>
 <meta name="description" content="eLegis — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<link rel="canonical" href="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/elegis/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Escola de Pacientes DF">
+<meta property="og:title" content="eLegis — Escola de Pacientes DF">
+<meta property="og:description" content="eLegis — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta property="og:url" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/elegis/">
+<meta property="og:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="eLegis — Escola de Pacientes DF">
+<meta name="twitter:description" content="eLegis — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta name="twitter:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="icon" href="../assets/img/logo.png">
 
@@ -51,10 +67,10 @@
 </li>
 <li><a href="../para-pacientes/">Comece por aqui <span class="caret">▾</span></a>
 <div class="dropdown">
-<a href="../para-pacientes/">🧑‍🦱 Pacientes e Comunidade</a>
-<a href="../para-estudantes/">🎓 Estudantes</a>
-<a href="../para-pesquisadores/">🔬 Pesquisadores</a>
-<a href="../para-profissionais/">🩺 Profissionais e Gestores</a>
+<a href="../para-pacientes/"><span class="msym">diversity_3</span> Pacientes e Comunidade</a>
+<a href="../para-estudantes/"><span class="msym">school</span> Estudantes</a>
+<a href="../para-pesquisadores/"><span class="msym">science</span> Pesquisadores</a>
+<a href="../para-profissionais/"><span class="msym">stethoscope</span> Profissionais e Gestores</a>
 </div>
 </li>
 <li><a href="../publicacoes/">Ciência <span class="caret">▾</span></a>
@@ -78,6 +94,7 @@
 </div>
 </li>
 </ul>
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="../">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -94,71 +111,71 @@
 <figure class="embed embed-doc"><iframe src="https://docs.google.com/presentation/d/1ZPt0fkE03CCOfxo2bApUbAwuD_AI_LNT/embed" title="- ENAMED E PROFIMED EM 2026 - CONLEG - SAÚDE.pptx" loading="lazy"></iframe><figcaption class="embed-caption"><span>- ENAMED E PROFIMED EM 2026 - CONLEG - SAÚDE.pptx</span><a href="https://docs.google.com/presentation/d/1ZPt0fkE03CCOfxo2bApUbAwuD_AI_LNT/edit" target="_blank" rel="noopener">Abrir o documento ↗</a></figcaption></figure>
 <p>L10406-02 CÓDIGO CIVIL compilada 2025-11 dia7.docx</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1556R3PZ9UZgIPx70OCd-w4IUO_tmPi7O/edit?usp=share_link&ouid=105226064234005732640&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1556R3PZ9UZgIPx70OCd-w4IUO_tmPi7O/edit?usp=share_link&ouid=105226064234005732640&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L13105-15 CPC Código de Processo Civil compilado 2025-11 dia14</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1tvHfFzAUzbtJf-K6-75MOuLElc1dAKZ6" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1tvHfFzAUzbtJf-K6-75MOuLElc1dAKZ6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>L8069-90 ECA ESTATUTO DA CRIANÇA E DO ADOLESCENTE 2025-11 DIA20</h3>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1Slikmh_Gv7oWotZf5iFgWXIpHtCNEBaU/edit?usp=drive_web&ouid=105226064234005732640&rtpof=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1Slikmh_Gv7oWotZf5iFgWXIpHtCNEBaU/edit?usp=drive_web&ouid=105226064234005732640&rtpof=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L8112-90 REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS UNIÃO AUTARQUIA E FUNDAÇÕES PÚBLICAS FEDERAIS 2025-11 DIA20</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1y49LPFg0VE6YjijGz7lTVFCEbs50gTYP/edit?usp=drive_web&ouid=105226064234005732640&rtpof=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1y49LPFg0VE6YjijGz7lTVFCEbs50gTYP/edit?usp=drive_web&ouid=105226064234005732640&rtpof=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L6015-73 REGISTROS PÚBLICOS 2025-12 dia21</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1ChNz4yCY6Lo3KOkptyH99LHi-Jx0d1LR/edit?usp=share_link&ouid=105226064234005732640&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1ChNz4yCY6Lo3KOkptyH99LHi-Jx0d1LR/edit?usp=share_link&ouid=105226064234005732640&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L8078-90 CODIGO DE DEFESA DO CONSUMIDOR Dispõe sobre a proteção do consumidor e dá outras providências 2025-12 DIA28</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/12YbNDr5_M7M6p52QPs52XvVSG1Fkmmxr-q4j-fs_pnA/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/12YbNDr5_M7M6p52QPs52XvVSG1Fkmmxr-q4j-fs_pnA/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L14133-21 Lei de Licitações e Contratos Administrativos 2026-1 DIA5</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1b2pW9gZQUaV82D-sXIppZ-9YYLQNrgTEUTrvDKsVrG0/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1b2pW9gZQUaV82D-sXIppZ-9YYLQNrgTEUTrvDKsVrG0/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>LEGISLAÇÃO - PENAL</h3>
 <p>DEL2848-41 CÓDIGO PENAL compilado 2025-11 DIA20</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/14oZhC4TM1qdNGA2nyElRdYmMDou0yAAP" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/14oZhC4TM1qdNGA2nyElRdYmMDou0yAAP" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Del3689-41 CÓDIGO DE PROCESSO PENAL 2025-11 DIA20</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1VVTiDCbKi6IcLxY8D1dkvMLSVCppLNnz/edit?usp=share_link&ouid=105226064234005732640&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1VVTiDCbKi6IcLxY8D1dkvMLSVCppLNnz/edit?usp=share_link&ouid=105226064234005732640&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>LEGISLAÇÃO - OUTRAS</h3>
 <h3>LC101-00 LRF LEI DE RESPONSABILIDADE FISCAL 2026-1 DIA2</h3>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1-xhgzeWRoU7c9akThL4rgPVsd73SWFMFvldJNEIaga8/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1-xhgzeWRoU7c9akThL4rgPVsd73SWFMFvldJNEIaga8/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>DEL5452-43 CLT Aprova a Consolidação das Leis do Trabalho 2026-5 DIA19</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1CNs3T6FFGJmZRrBj5aov5u1PvxEn6eqVzEqVCka0XY8/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1CNs3T6FFGJmZRrBj5aov5u1PvxEn6eqVzEqVCka0XY8/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>LEGISLAÇÃO SANITÁRIA</h3>
 <h3>L9782-99 ANVISA 2026-1 DIA1</h3>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1nHZulF6iMgxJGeUd1PHAJZX3NLl6y4WOW-C0Wgep1KM/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1nHZulF6iMgxJGeUd1PHAJZX3NLl6y4WOW-C0Wgep1KM/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L11903-09 Sistema Nacional de Controle de Medicamentos 2026-1 D2</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1T-k9YflZMyK73p5eKajYlCF8il3EVWoKzjG-johA24I/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1T-k9YflZMyK73p5eKajYlCF8il3EVWoKzjG-johA24I/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>L13838-19 LEI DAS AGÊNCIAS REGULADORAS 2026-1 DIA2</h3>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1tPRtTtUjwx_xuuZjQVRBg5Z0gweR1Mr2Sc1fUWohkxI/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1tPRtTtUjwx_xuuZjQVRBg5Z0gweR1Mr2Sc1fUWohkxI/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>L14874-24 Sistema Nacional de Ética em Pesquisa com Seres Humanos 2026-1 DIA1</p>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/1EkbQY-5XFC4njC8w2jk9uSGMD-TpnndJ1gYOBUX-ftY/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1EkbQY-5XFC4njC8w2jk9uSGMD-TpnndJ1gYOBUX-ftY/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>INFRALEGAL</h3>
 <h3>CFM RES2430-2025 - RESOLUÇÃO CFM ATO MEDICO PERICIAL</h3>
 <div class="link-grid">
-<a class="link-card" href="https://docs.google.com/document/d/16bjJR7J4g2_ZDusO0RVGR1OfxfWaK380hZ3sEmRIVJo/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/16bjJR7J4g2_ZDusO0RVGR1OfxfWaK380hZ3sEmRIVJo/edit?tab=t.0" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>docs.google.com</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 </div></article>
 
@@ -210,5 +227,7 @@
 <script src="../assets/search-index.js" defer></script>
 <script src="../assets/search.js" defer></script>
 <script src="../assets/reveal.js" defer></script>
+<script src="../assets/theme.js" defer></script>
+<script src="../assets/toc.js" defer></script>
 </body>
 </html>

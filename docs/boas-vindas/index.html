@@ -2,12 +2,28 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Boas-vindas — Escola de Pacientes DF</title>
 <meta name="description" content="Boas-vindas — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<link rel="canonical" href="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/boas-vindas/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Escola de Pacientes DF">
+<meta property="og:title" content="Boas-vindas — Escola de Pacientes DF">
+<meta property="og:description" content="Boas-vindas — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta property="og:url" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/boas-vindas/">
+<meta property="og:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Boas-vindas — Escola de Pacientes DF">
+<meta name="twitter:description" content="Boas-vindas — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta name="twitter:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="icon" href="../assets/img/logo.png">
 <script src="../assets/confetti.js" defer></script>
@@ -51,10 +67,10 @@
 </li>
 <li><a href="../para-pacientes/">Comece por aqui <span class="caret">▾</span></a>
 <div class="dropdown">
-<a href="../para-pacientes/">🧑‍🦱 Pacientes e Comunidade</a>
-<a href="../para-estudantes/">🎓 Estudantes</a>
-<a href="../para-pesquisadores/">🔬 Pesquisadores</a>
-<a href="../para-profissionais/">🩺 Profissionais e Gestores</a>
+<a href="../para-pacientes/"><span class="msym">diversity_3</span> Pacientes e Comunidade</a>
+<a href="../para-estudantes/"><span class="msym">school</span> Estudantes</a>
+<a href="../para-pesquisadores/"><span class="msym">science</span> Pesquisadores</a>
+<a href="../para-profissionais/"><span class="msym">stethoscope</span> Profissionais e Gestores</a>
 </div>
 </li>
 <li><a href="../publicacoes/">Ciência <span class="caret">▾</span></a>
@@ -78,6 +94,7 @@
 </div>
 </li>
 </ul>
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="../">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -100,7 +117,7 @@
 <h3>SANTA-IA</h3>
 <p>Tem alguma dúvida sobre o grupo de pesquisa? Pergunte à SANTA-IA, a assistente de inteligência artificial da Escola de Pacientes:</p>
 <div class="link-grid">
-<a class="link-card" href="https://g.co/gemini/share/131babc1b9d3h" target="_blank" rel="noopener"><span class="lc-ico">🤖</span><span class="lc-body"><b>Perguntar à SANTA-IA</b><small>g.co</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://g.co/gemini/share/131babc1b9d3h" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">smart_toy</span></span><span class="lc-body"><b>Perguntar à SANTA-IA</b><small>g.co</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>IAS — NOTEBOOK LM</h3>
 <p>Vídeo explicando um pouco mais sobre o Notebook LM e como usá-lo nos estudos do grupo:</p>
@@ -168,19 +185,19 @@
 <li>Google Scholar — organizar e mostrar sua produção acadêmica</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://abre.ai/lattesss" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>Lattes — principal currículo acadêmico</b><small>abre.ai</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://abre.ai/lattesss" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>Lattes — principal currículo acadêmico</b><small>abre.ai</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>ORCID — identificador acadêmico; manter atualizado regularmente</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://abre.ai/capes-cafe" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>CAFe — acesso institucional a artigos</b><small>abre.ai</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://abre.ai/capes-cafe" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>CAFe — acesso institucional a artigos</b><small>abre.ai</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Zotero / Mendeley — gerenciadores de referência (importar, organizar e citar)</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://abre.ai/rayann" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>Rayyan — triagem de artigos, útil e intuitiva</b><small>abre.ai</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://abre.ai/rayann" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>Rayyan — triagem de artigos, útil e intuitiva</b><small>abre.ai</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>5) FLUXO COMPLETO DO ARTIGO E ESCRITA CIENTÍFICA</h3>
 <ul>
@@ -215,14 +232,14 @@
 <h3>NORMAS ABNT E PADRONIZAÇÃO</h3>
 <p>Para garantir a qualidade acadêmica das publicações, todos os membros devem seguir as normas da ABNT:</p>
 <div class="link-grid">
-<a class="link-card" href="https://www.pucsp.br/sites/default/files/download/biblioteca/2025/manual-para-elaboracao-do-trabalho-academico-com-citacoes-e-referencias-em-padrao-abnt.pdf" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>Guia completo para a elaboração de trabalhos acadêmicos (PUC-SP)</b><small>pucsp.br</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://normas-abnt.espm.br/index.php?title=Refer%C3%AAncia_(obrigat%C3%B3rio)" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>Referências com nomes compostos, sobrenomes hispânicos e prefixos (ESPM)</b><small>normas-abnt.espm.br</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://www.pucsp.br/sites/default/files/download/biblioteca/2025/manual-para-elaboracao-do-trabalho-academico-com-citacoes-e-referencias-em-padrao-abnt.pdf" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Guia completo para a elaboração de trabalhos acadêmicos (PUC-SP)</b><small>pucsp.br</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://normas-abnt.espm.br/index.php?title=Refer%C3%AAncia_(obrigat%C3%B3rio)" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>Referências com nomes compostos, sobrenomes hispânicos e prefixos (ESPM)</b><small>normas-abnt.espm.br</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>ACESSO A PERIÓDICOS E CAPACITAÇÃO</h3>
 <div class="link-grid">
-<a class="link-card" href="https://www.periodicos.capes.gov.br/index.php/acesso-cafe.html" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>Acesso CAFe (Periódicos CAPES) — bases científicas com login institucional</b><small>periodicos.capes.gov.br</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://www.scopus.com/sources.uri" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>Scopus Sources — revistas de maior impacto por área</b><small>scopus.com</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://youtube.com/playlist?list=PLK23gfoa5wbKZq0iZK_qWm-TVHj_wrRBO" target="_blank" rel="noopener"><span class="lc-ico">▶️</span><span class="lc-body"><b>Vídeos instrutivos no YouTube</b><small>youtube.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://www.periodicos.capes.gov.br/index.php/acesso-cafe.html" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>Acesso CAFe (Periódicos CAPES) — bases científicas com login institucional</b><small>periodicos.capes.gov.br</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://www.scopus.com/sources.uri" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>Scopus Sources — revistas de maior impacto por área</b><small>scopus.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://youtube.com/playlist?list=PLK23gfoa5wbKZq0iZK_qWm-TVHj_wrRBO" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">play_circle</span></span><span class="lc-body"><b>Vídeos instrutivos no YouTube</b><small>youtube.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 </div></article>
 
@@ -274,5 +291,7 @@
 <script src="../assets/search-index.js" defer></script>
 <script src="../assets/search.js" defer></script>
 <script src="../assets/reveal.js" defer></script>
+<script src="../assets/theme.js" defer></script>
+<script src="../assets/toc.js" defer></script>
 </body>
 </html>

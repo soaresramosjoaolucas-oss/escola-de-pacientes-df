@@ -2,12 +2,28 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Testes — Escola de Pacientes DF</title>
 <meta name="description" content="Testes — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<link rel="canonical" href="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/testes/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Escola de Pacientes DF">
+<meta property="og:title" content="Testes — Escola de Pacientes DF">
+<meta property="og:description" content="Testes — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta property="og:url" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/testes/">
+<meta property="og:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Testes — Escola de Pacientes DF">
+<meta name="twitter:description" content="Testes — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta name="twitter:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="icon" href="../assets/img/logo.png">
 
@@ -51,10 +67,10 @@
 </li>
 <li><a href="../para-pacientes/">Comece por aqui <span class="caret">▾</span></a>
 <div class="dropdown">
-<a href="../para-pacientes/">🧑‍🦱 Pacientes e Comunidade</a>
-<a href="../para-estudantes/">🎓 Estudantes</a>
-<a href="../para-pesquisadores/">🔬 Pesquisadores</a>
-<a href="../para-profissionais/">🩺 Profissionais e Gestores</a>
+<a href="../para-pacientes/"><span class="msym">diversity_3</span> Pacientes e Comunidade</a>
+<a href="../para-estudantes/"><span class="msym">school</span> Estudantes</a>
+<a href="../para-pesquisadores/"><span class="msym">science</span> Pesquisadores</a>
+<a href="../para-profissionais/"><span class="msym">stethoscope</span> Profissionais e Gestores</a>
 </div>
 </li>
 <li><a href="../publicacoes/">Ciência <span class="caret">▾</span></a>
@@ -78,6 +94,7 @@
 </div>
 </li>
 </ul>
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="../">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -95,68 +112,68 @@
 <p>Escolha um teste no índice abaixo. Para praticar com casos clínicos interativos, veja também as <a href="../simulacoes/">Simulações</a> e o <a href="../estudo/">Estudo por Questões</a>.</p>
 <h3>TODOS OS TESTES</h3>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/idqu8DqTv6VXMkT58" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/2qAybisSVrRYTq2k9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/72MGJ1ewhZsoznn58" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/piLZSvdFcnzb1ppbA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/qMQeJnbWJMd5BP6W6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>UERJ 2017 MÉTODO CLÍNICO CENTRADO NA PESSOA MCCP</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/QG37oe478CHz2nEh8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>UERJ 2018 SÍNDROME DOS OVÁRIOS POLICÍSTICOS SOP</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/eV6pSvYnYm18JFVo9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/b6jricrv6PJoz5SJ8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/5jDQ7wJiPaJhD1qRA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/ZUqhzNVX3sTPXMmr8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>UERJ 2019 DOENÇA INFLAMATÓRIA PÉLVICA DIP</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/ug3rR8pMdTEcdJiT6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>UERJ 2019 ENDOCARDITE INFECCIOSA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/GJaGUSTpT6HVYHjUA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>UERJ 2019 PRÉ-ECLÂMPSIA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/hAtZJsXDocjZj16TA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>UERJ 2019 RISCO CARDIOVASCULAR</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/97aL1RJukirgqRfo9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/94NRwgyW5MpNisNy8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>USP 2015 ABDOME AGUDO OBSTRUTIVO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/UvUDsPbT1Ya5CxNu7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>USP 2015 DIABETES E INSUFICIÊNCIA CARDÍACA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/eASmaCYJe3ciBXrP7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>USP 2015 OTITE MÉDIA AGUDA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/yckYc6UQj5UwtoJr8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/NL2T3RuezyHeahjv9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>USP 2016 DIABETES GESTACIONAL</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/h5TkgL4gQ6UdJgdy5" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/HuxkrbqY2PxxP8kZ8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>USP 2016 PEDIATRIA CD RN</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/4dEWAycrx58LzDDN7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>USP 2018 INSUFICIÊNCIA CARDÍACA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/K5UHpQmju9vxiF6G7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/1vATAA9TDccwSWCK9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/SdEf4TvNhzVAJqkK8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/BKbR7SVTah1EMk1a8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>REVALIDA 2017 MORTE ENCEFÁLICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/Pb2AWCR9cUqCXFMJ9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>REVALIDA 2017 SÍFILIS GESTACIONAL</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/8h5yLRmam1QpiZUN8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>REVALIDA 2017 SÍNDROME METABÓLICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/JJoybjmn5y2TqTbx6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>REVALIDA 2017 VIOLÊNCIA SEXUAL NA INFÂNCIA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/KbdbyBTaeKuzDS5g7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/AyRMVd8k9DC6sWCq5" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2016 IAMCSST INFARTO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/cszjFrF6qsW4bA2HA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/4LbTcwmJ2ThH1wEr9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/io4kFpr8JEcq3k3T6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2016 TUBERCULOSE</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/v4FhmnBB91kwxYB49" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/qWCK21qvcwiebjeo7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2018 CRESCIMENTO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/nfDNQovNsaSB8c1b9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2018 COLPOCITOLOGIA ONCÓTICA PREVENTIVO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/tUJPw1Zr2D2UCrSg8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/QSvMRNUFwEfpWmzx7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/G7fGgnB5mFtGHJer5" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2019 AMENORREIA PRIMÁRIA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/L3XetDkcoGU3Zhqw8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/fQPMWEG7HqTAvFAA6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2019 ENDOCARDITE</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/VSjwHKPmVLQGGogN9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2019 IMUNIZAÇÕES</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/JpMESQTxWNjwtpfR6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>SUS-BA 2019 RETOCOLITE ULCERATIVA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/idqu8DqTv6VXMkT58" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/2qAybisSVrRYTq2k9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/72MGJ1ewhZsoznn58" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/piLZSvdFcnzb1ppbA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/qMQeJnbWJMd5BP6W6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>UERJ 2017 MÉTODO CLÍNICO CENTRADO NA PESSOA MCCP</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/QG37oe478CHz2nEh8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>UERJ 2018 SÍNDROME DOS OVÁRIOS POLICÍSTICOS SOP</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/eV6pSvYnYm18JFVo9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/b6jricrv6PJoz5SJ8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/5jDQ7wJiPaJhD1qRA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/ZUqhzNVX3sTPXMmr8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>UERJ 2019 DOENÇA INFLAMATÓRIA PÉLVICA DIP</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/ug3rR8pMdTEcdJiT6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>UERJ 2019 ENDOCARDITE INFECCIOSA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/GJaGUSTpT6HVYHjUA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>UERJ 2019 PRÉ-ECLÂMPSIA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/hAtZJsXDocjZj16TA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>UERJ 2019 RISCO CARDIOVASCULAR</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/97aL1RJukirgqRfo9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/94NRwgyW5MpNisNy8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>USP 2015 ABDOME AGUDO OBSTRUTIVO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/UvUDsPbT1Ya5CxNu7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>USP 2015 DIABETES E INSUFICIÊNCIA CARDÍACA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/eASmaCYJe3ciBXrP7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>USP 2015 OTITE MÉDIA AGUDA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/yckYc6UQj5UwtoJr8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/NL2T3RuezyHeahjv9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>USP 2016 DIABETES GESTACIONAL</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/h5TkgL4gQ6UdJgdy5" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/HuxkrbqY2PxxP8kZ8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>USP 2016 PEDIATRIA CD RN</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/4dEWAycrx58LzDDN7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>USP 2018 INSUFICIÊNCIA CARDÍACA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/K5UHpQmju9vxiF6G7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/1vATAA9TDccwSWCK9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/SdEf4TvNhzVAJqkK8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/BKbR7SVTah1EMk1a8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>REVALIDA 2017 MORTE ENCEFÁLICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/Pb2AWCR9cUqCXFMJ9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>REVALIDA 2017 SÍFILIS GESTACIONAL</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/8h5yLRmam1QpiZUN8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>REVALIDA 2017 SÍNDROME METABÓLICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/JJoybjmn5y2TqTbx6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>REVALIDA 2017 VIOLÊNCIA SEXUAL NA INFÂNCIA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/KbdbyBTaeKuzDS5g7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/AyRMVd8k9DC6sWCq5" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2016 IAMCSST INFARTO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/cszjFrF6qsW4bA2HA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/4LbTcwmJ2ThH1wEr9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/io4kFpr8JEcq3k3T6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2016 TUBERCULOSE</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/v4FhmnBB91kwxYB49" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/qWCK21qvcwiebjeo7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2018 CRESCIMENTO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/nfDNQovNsaSB8c1b9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2018 COLPOCITOLOGIA ONCÓTICA PREVENTIVO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/tUJPw1Zr2D2UCrSg8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/QSvMRNUFwEfpWmzx7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/G7fGgnB5mFtGHJer5" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2019 AMENORREIA PRIMÁRIA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/L3XetDkcoGU3Zhqw8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/fQPMWEG7HqTAvFAA6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2019 ENDOCARDITE</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/VSjwHKPmVLQGGogN9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2019 IMUNIZAÇÕES</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/JpMESQTxWNjwtpfR6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>SUS-BA 2019 RETOCOLITE ULCERATIVA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>UERJ 2019 DOENCA INFLAMATORIA PELVICA DIP</li>
 <li>Curso Integra-DN 2020 - Doenças negligenciadas</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/AK4LdBmpdEkEkwRE6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/qSwmW6EvAvGWqtkt8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/F6Ycm1VEZMCzhV7o7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/NyYrEY4kgCuabamX7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/v6avUXyCAdqoGxGY6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/M9KSHWMTr9nTvRzPA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>LEISHMANIOSE TEGUMENTAR</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/8nRYhzHUiNEuqYBC7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/UQGeFSsLP2gW9LWj7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/W3PeXvXyou8KUW6E7" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://forms.gle/hZ4BwcyMNtSj7kz3A" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://docs.google.com/document/d/1_Tl6-XrjshMmlqXcW7Qj-ILVeu-UVUhJ/edit?usp=sharing&ouid=117039145785569371004&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>Documento</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://docs.google.com/document/d/1U2NjOcfIWiztzliwD6EqDtQsaDeQeYYd/edit?usp=sharing&ouid=117039145785569371004&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico">📄</span><span class="lc-body"><b>Documento</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/AK4LdBmpdEkEkwRE6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/qSwmW6EvAvGWqtkt8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/F6Ycm1VEZMCzhV7o7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/NyYrEY4kgCuabamX7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/v6avUXyCAdqoGxGY6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/M9KSHWMTr9nTvRzPA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>LEISHMANIOSE TEGUMENTAR</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/8nRYhzHUiNEuqYBC7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/UQGeFSsLP2gW9LWj7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/W3PeXvXyou8KUW6E7" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/hZ4BwcyMNtSj7kz3A" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1_Tl6-XrjshMmlqXcW7Qj-ILVeu-UVUhJ/edit?usp=sharing&ouid=117039145785569371004&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Documento</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/document/d/1U2NjOcfIWiztzliwD6EqDtQsaDeQeYYd/edit?usp=sharing&ouid=117039145785569371004&rtpof=true&sd=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Documento</b><small>docs.google.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-1 PRINCÍPIOS MFC</li>
@@ -203,7 +220,7 @@
 <li>Z-GUSSO2019-44 ORGANIZAÇÃO E NASF</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/vtbWVbt38X2BmTNQA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-45 VIGILÂNCIA EM SAÚDE</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/vtbWVbt38X2BmTNQA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-45 VIGILÂNCIA EM SAÚDE</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-46 GERENCIAMENTO DE UBS</li>
@@ -264,7 +281,7 @@
 <li>Z-GUSSO2019-102 DOR AGUDA</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/tXkTET7Xa8jCYjep6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-103 DOR CRÔNICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/tXkTET7Xa8jCYjep6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-103 DOR CRÔNICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-105 LINFONODOMEGALIA</li>
@@ -303,15 +320,15 @@
 <li>Z-GUSSO2019-136 AMENORREIA</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/3CBTj2SAYsT3Aue28" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-137 SANGRAMENTO VAGINAL E DISTÚRBIOS MENSTRUAIS</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/3CBTj2SAYsT3Aue28" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-137 SANGRAMENTO VAGINAL E DISTÚRBIOS MENSTRUAIS</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-138 CLIMATÉRIO E MENOPAUSA</li>
 <li>Z-GUSSO2019-139 DOENÇAS TESTICULARES E ESCROTAIS</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/rPQjHfdKShhKxuFdA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="https://bit.ly/3tMtu7z" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>Formulário</b><small>bit.ly</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/rPQjHfdKShhKxuFdA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Formulário</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://bit.ly/3tMtu7z" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>Formulário</b><small>bit.ly</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-141 NEOPLASIA DE COLO UTERINO</li>
@@ -321,7 +338,7 @@
 <li>Z-GUSSO2019-145 ITU EM CRIANÇAS</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/oQcAVxm9LAJHVtoPA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-146 ITU ADULTO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/oQcAVxm9LAJHVtoPA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-146 ITU ADULTO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-147 ALTERAÇÕES DA FUNÇÃO RENAL</li>
@@ -336,21 +353,21 @@
 <li>Z-GUSSO2019-157 PREVENÇÃO PRIMÁRIA E SECUNDÁRIA PARA DOENÇAS CARDIOVASCULARES</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/jk1RxDiHVhF7dHck9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-158 DOR TORÁCICA ANGINA E IAM</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/jk1RxDiHVhF7dHck9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-158 DOR TORÁCICA ANGINA E IAM</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-159 PALPITAÇÃO E ARRITMIA</li>
 <li>Z-GUSSO2019-160 INTERPRETAÇÃO DO ECG</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/71NWV2MUYnoUXc58A" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-161 HIPERTENSÃO ARTERIAL SISTÊMICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/71NWV2MUYnoUXc58A" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-161 HIPERTENSÃO ARTERIAL SISTÊMICA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-162 DOENÇA ARTERIAL PERIFÉRICA</li>
 <li>Z-GUSSO2019-163 DOENÇAS DO SISTEMA VENNOSO</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/kRUSCWwykyzNVcB5A" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-164 INSUFICIÊNCIA CARDÍACA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/kRUSCWwykyzNVcB5A" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-164 INSUFICIÊNCIA CARDÍACA</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-165 DOR ABDOMINAL</li>
@@ -369,7 +386,7 @@
 <li>Z-GUSSO2019-177 DISLIPIDEMIA</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/ErvcYuERhQxfSmmC9" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-178 DM TIPOS 1 E 2</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/ErvcYuERhQxfSmmC9" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-178 DM TIPOS 1 E 2</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-179 PROBLEMAS DA TIREOIDE</li>
@@ -429,7 +446,7 @@
 <li>Z-GUSSO2019-241 PERTURBAÇÕES DO SONO</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/oQF6ifRiCDVzMxEP6" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-242 TABAGISMO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/oQF6ifRiCDVzMxEP6" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-242 TABAGISMO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-243 PROBLEMAS RELACIONADOS AO CONSUMO DE ÁLCOOL</li>
@@ -437,7 +454,7 @@
 <li>Z-GUSSO2019-245 TRANSTORNOS ALIMENTARES</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/cUBn4161dBreDiRSA" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Z-GUSSO2019-246 PSICOSES</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/cUBn4161dBreDiRSA" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Z-GUSSO2019-246 PSICOSES</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-247 CASOS GRAVES DE SAÚDE MENTAL</li>
@@ -452,7 +469,7 @@
 <li>Z-GUSSO2019-257 CHIKUNGUNYA - ANEXOS</li>
 </ul>
 <div class="link-grid">
-<a class="link-card" href="http://www.escoladepacientes.com/profissionais/testes/teste-gusso2019-257-dengue" target="_blank" rel="noopener"><span class="lc-ico">🔗</span><span class="lc-body"><b>escoladepacientes.com</b><small>escoladepacientes.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="http://www.escoladepacientes.com/profissionais/testes/teste-gusso2019-257-dengue" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">link</span></span><span class="lc-body"><b>escoladepacientes.com</b><small>escoladepacientes.com</small></span><span class="lc-arrow">→</span></a>
 </div>
 <ul>
 <li>Z-GUSSO2019-257 DENGUE - ANEXOS</li>
@@ -904,5 +921,7 @@
 <script src="../assets/search-index.js" defer></script>
 <script src="../assets/search.js" defer></script>
 <script src="../assets/reveal.js" defer></script>
+<script src="../assets/theme.js" defer></script>
+<script src="../assets/toc.js" defer></script>
 </body>
 </html>

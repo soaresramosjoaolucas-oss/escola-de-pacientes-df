@@ -2,12 +2,28 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pacientes e Comunidade — Escola de Pacientes DF</title>
 <meta name="description" content="Pacientes e Comunidade — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<link rel="canonical" href="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/para-pacientes/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Escola de Pacientes DF">
+<meta property="og:title" content="Pacientes e Comunidade — Escola de Pacientes DF">
+<meta property="og:description" content="Pacientes e Comunidade — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta property="og:url" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/para-pacientes/">
+<meta property="og:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Pacientes e Comunidade — Escola de Pacientes DF">
+<meta name="twitter:description" content="Pacientes e Comunidade — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta name="twitter:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="icon" href="../assets/img/logo.png">
 
@@ -51,10 +67,10 @@
 </li>
 <li><a href="../para-pacientes/" aria-current="page">Comece por aqui <span class="caret">▾</span></a>
 <div class="dropdown">
-<a href="../para-pacientes/">🧑‍🦱 Pacientes e Comunidade</a>
-<a href="../para-estudantes/">🎓 Estudantes</a>
-<a href="../para-pesquisadores/">🔬 Pesquisadores</a>
-<a href="../para-profissionais/">🩺 Profissionais e Gestores</a>
+<a href="../para-pacientes/"><span class="msym">diversity_3</span> Pacientes e Comunidade</a>
+<a href="../para-estudantes/"><span class="msym">school</span> Estudantes</a>
+<a href="../para-pesquisadores/"><span class="msym">science</span> Pesquisadores</a>
+<a href="../para-profissionais/"><span class="msym">stethoscope</span> Profissionais e Gestores</a>
 </div>
 </li>
 <li><a href="../publicacoes/">Ciência <span class="caret">▾</span></a>
@@ -78,6 +94,7 @@
 </div>
 </li>
 </ul>
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="../">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -102,16 +119,16 @@
 </ul>
 <h3>VÍDEOS E PODCASTS</h3>
 <div class="link-grid">
-<a class="link-card" href="../instagram/"><span class="lc-ico">📄</span><span class="lc-body"><b>Instagram — Luz, Câmera, Saúde</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="../videos-de-saude-nas-midias-sociais/"><span class="lc-ico">📄</span><span class="lc-body"><b>Vídeos de Saúde nas Mídias Sociais</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="../pra-ouvir-e-refletir-podcasts/"><span class="lc-ico">📄</span><span class="lc-body"><b>Pra Ouvir e Refletir — Podcasts</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../instagram/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Instagram — Luz, Câmera, Saúde</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../videos-de-saude-nas-midias-sociais/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Vídeos de Saúde nas Mídias Sociais</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../pra-ouvir-e-refletir-podcasts/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Pra Ouvir e Refletir — Podcasts</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>PROJETOS PARA A COMUNIDADE</h3>
 <p>Além dos materiais de orientação, a Escola de Pacientes DF mantém projetos que levam saúde e educação para fora do consultório.</p>
 <div class="link-grid">
-<a class="link-card" href="../escola-saudavel/"><span class="lc-ico">📄</span><span class="lc-body"><b>Escola Saudável</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="../calcada-de-versos-e-conselhos/"><span class="lc-ico">📄</span><span class="lc-body"><b>Calçada de Versos e Conselhos</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="../prescreva-um-livro/"><span class="lc-ico">📄</span><span class="lc-body"><b>Prescreva um Livro</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../escola-saudavel/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Escola Saudável</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../calcada-de-versos-e-conselhos/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Calçada de Versos e Conselhos</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../prescreva-um-livro/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Prescreva um Livro</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
 </div>
 <h3>ORIENTAÇÕES POR TEMA</h3>
 <p>Precisa de informação sobre um problema de saúde específico? Em <a href="../temas/">Temas Clínicos</a> você encontra orientações organizadas por assunto — dengue, hipertensão, diabetes, pré-natal e muitos outros temas do dia a dia da Atenção Primária.</p>
@@ -165,5 +182,7 @@
 <script src="../assets/search-index.js" defer></script>
 <script src="../assets/search.js" defer></script>
 <script src="../assets/reveal.js" defer></script>
+<script src="../assets/theme.js" defer></script>
+<script src="../assets/toc.js" defer></script>
 </body>
 </html>

@@ -2,12 +2,28 @@
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Equipe — Escola de Pacientes DF</title>
 <meta name="description" content="Equipe — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<link rel="canonical" href="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/equipe/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Escola de Pacientes DF">
+<meta property="og:title" content="Equipe — Escola de Pacientes DF">
+<meta property="og:description" content="Equipe — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta property="og:url" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/equipe/">
+<meta property="og:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Equipe — Escola de Pacientes DF">
+<meta name="twitter:description" content="Equipe — material da Escola de Pacientes DF: educação em saúde, educação permanente e formação em saúde.">
+<meta name="twitter:image" content="https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df/assets/img/og-card.jpg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="icon" href="../assets/img/logo.png">
 
@@ -51,10 +67,10 @@
 </li>
 <li><a href="../para-pacientes/">Comece por aqui <span class="caret">▾</span></a>
 <div class="dropdown">
-<a href="../para-pacientes/">🧑‍🦱 Pacientes e Comunidade</a>
-<a href="../para-estudantes/">🎓 Estudantes</a>
-<a href="../para-pesquisadores/">🔬 Pesquisadores</a>
-<a href="../para-profissionais/">🩺 Profissionais e Gestores</a>
+<a href="../para-pacientes/"><span class="msym">diversity_3</span> Pacientes e Comunidade</a>
+<a href="../para-estudantes/"><span class="msym">school</span> Estudantes</a>
+<a href="../para-pesquisadores/"><span class="msym">science</span> Pesquisadores</a>
+<a href="../para-profissionais/"><span class="msym">stethoscope</span> Profissionais e Gestores</a>
 </div>
 </li>
 <li><a href="../publicacoes/">Ciência <span class="caret">▾</span></a>
@@ -78,6 +94,7 @@
 </div>
 </li>
 </ul>
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="../">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -100,12 +117,12 @@
 <p>Sou Consultor Legislativo (Saúde) do Senado Federal; Professor de Medicina da Faculdade de Medicina da Universidade de Brasília; Conselheiro efetivo e membro da Diretoria do CRM-DF Gestão 23-28, Perito judicial,  Pesquisador em Saúde Pública - Departamento de Saúde Coletiva - UnB, Médico da Saúde da Família e com mestrado e doutorado pela Unb - Saúde Coletiva. Graduado em Medicina e Gestão Pública, graduando de Direito e Computação/Tecnologia da Informação - Inteligência Artifical. Pós-graduando em Direito Médico e Perícia Judicial.</p>
 <p>Entre os principais destaques profissionais está 1o lugar no concurso do Senado Federal - Consultoria Legislativa - Saúde (2022) e 1o lugar no processo seletivo de professor substituto da Universidade de Brasília - Faculdade de Medicina (2022 e 2025).</p>
 <div class="link-grid">
-<a class="link-card" href="https://youtube.com/@estevaorolim-escoladepacie3064?si=rnYJUMIUHsVpC9Xh" target="_blank" rel="noopener"><span class="lc-ico">▶️</span><span class="lc-body"><b>Youtube Escola de Pacientes</b><small>youtube.com</small></span><span class="lc-arrow">→</span></a>
-<a class="link-card" href="../dr-estevao-rolim/"><span class="lc-ico">📄</span><span class="lc-body"><b>Saiba mais em</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://youtube.com/@estevaorolim-escoladepacie3064?si=rnYJUMIUHsVpC9Xh" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">play_circle</span></span><span class="lc-body"><b>Youtube Escola de Pacientes</b><small>youtube.com</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../dr-estevao-rolim/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>Saiba mais em</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>PUBLICAÇÕES - Clique <a href="../publicacoes/">aqui</a></p>
 <div class="link-grid">
-<a class="link-card" href="../publicacoes/"><span class="lc-ico">📄</span><span class="lc-body"><b>escoladepacientes.com</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="../publicacoes/"><span class="lc-ico"><span class="msym">description</span></span><span class="lc-body"><b>escoladepacientes.com</b><small>página do site</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Grupo de Pesquisa - Profissionais 2025</p>
 <p>UNB MED111 - Lucas Carvalho Souza Esum -  <a href="http://lattes.cnpq.br/0082363078039445" target="_blank" rel="noopener">http://lattes.cnpq.br/0082363078039445</a> - ORCID-ID: 0000-0003-4846-6339. Estudante de Medicina (início em 2020), O estudante ingressou no curso de graduação de medicina tendo experiência prévia de pesquisa em mostras científicas na área da física (2018). Participa ainda, de atividades extracurriculares na Escola de Pacientes DF, com ênfase em Saúde Básica e Educação Permanente em Saúde, onde revisa material teórico e produz, juntamente com o grupo, novos mecanismos de pesquisa e ação de Educação Popular em Saúde, submetendo os trabalhos em congressos e revistas. Por fim, o estudante ainda é membro do Grupo de Pesquisa Promoção e Equidade em Saúde. Ademais, o estudante está com um curso em andamento pela UNA-SUS, sobre Saúde da População Negra, que tem como objetivo preparar profissionais da saúde para as práticas diárias de promoção de acesso equinâme ao SUS, com base na Política Nacional de Saúde Integral da População Negra.</p>
@@ -144,10 +161,10 @@
 <p>MED122 – Angel Elisângela da Silva Lima</p>
 <p>MED122 – Gabriela Souza Santos Ribeiro</p>
 <h3>LISTA DE ESPERA - PARTICIPANTES FUTUROS</h3>
-<a class="link-card" href="https://docs.google.com/forms/d/e/1FAIpQLSc1nIGZSWv0NgPXfRmgh6UHbtvJ1t-UhiH7xFvBYvZoBc_Lew/viewform?embedded=true" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>Google Forms, Escola de Pacientes - Grupo de Pesquisa - Lista de espera</b><small>formulário</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://docs.google.com/forms/d/e/1FAIpQLSc1nIGZSWv0NgPXfRmgh6UHbtvJ1t-UhiH7xFvBYvZoBc_Lew/viewform?embedded=true" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>Google Forms, Escola de Pacientes - Grupo de Pesquisa - Lista de espera</b><small>formulário</small></span><span class="lc-arrow">→</span></a>
 <p>EX-PARTICIPANTES - OBRIGADO PELA PARTICIPAÇÃO! Deixe seu feedback:</p>
 <div class="link-grid">
-<a class="link-card" href="https://forms.gle/7bAnYLQnqbdbEpiX8" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>EX-INTEGRANTES - OBRIGADO PELA PARTICIPAÇÃO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
+<a class="link-card" href="https://forms.gle/7bAnYLQnqbdbEpiX8" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>EX-INTEGRANTES - OBRIGADO PELA PARTICIPAÇÃO</b><small>forms.gle</small></span><span class="lc-arrow">→</span></a>
 </div>
 <p>Grupo de Pesquisa - Coautores</p>
 <p>Alline Carvalho de Souza</p>
@@ -983,5 +1000,7 @@
 <script src="../assets/search-index.js" defer></script>
 <script src="../assets/search.js" defer></script>
 <script src="../assets/reveal.js" defer></script>
+<script src="../assets/theme.js" defer></script>
+<script src="../assets/toc.js" defer></script>
 </body>
 </html>

@@ -11,6 +11,7 @@ use URI::Escape qw(uri_unescape);
 my $ROOT   = dirname(__FILE__);
 my $OUT    = "$ROOT/../docs";
 my $SITE   = 'Escola de Pacientes DF';
+my $SITE_URL = 'https://soaresramosjoaolucas-oss.github.io/escola-de-pacientes-df';
 
 # ---------------- manifesto ----------------
 my (%page, @order);          # slug -> {title, cat, group}
@@ -62,10 +63,10 @@ my @NAV = (
         ['impressos-de-educacao-em-saude', 'Materiais Educativos'],
     ]},
     { label => 'Comece por aqui', items => [
-        ['para-pacientes', '🧑‍🦱 Pacientes e Comunidade'],
-        ['para-estudantes', '🎓 Estudantes'],
-        ['para-pesquisadores', '🔬 Pesquisadores'],
-        ['para-profissionais', '🩺 Profissionais e Gestores'],
+        ['para-pacientes', '<span class="msym">diversity_3</span> Pacientes e Comunidade'],
+        ['para-estudantes', '<span class="msym">school</span> Estudantes'],
+        ['para-pesquisadores', '<span class="msym">science</span> Pesquisadores'],
+        ['para-profissionais', '<span class="msym">stethoscope</span> Profissionais e Gestores'],
     ]},
     { label => 'Ciência', items => [
         ['publicacoes', 'Publicações'],
@@ -166,7 +167,7 @@ sub embed_html {
         return qq{<figure class="embed embed-doc"><iframe src="$src" title="$l" loading="lazy"></iframe><figcaption class="embed-caption"><span>$l</span><a href="$view" target="_blank" rel="noopener">Abrir o documento ↗</a></figcaption></figure>};
     }
     if ($url =~ m{docs\.google\.com/forms|forms\.gle}) {
-        return qq{<a class="link-card" href="$url" target="_blank" rel="noopener"><span class="lc-ico">📝</span><span class="lc-body"><b>$l</b><small>formulário</small></span><span class="lc-arrow">→</span></a>};
+        return qq{<a class="link-card" href="$url" target="_blank" rel="noopener"><span class="lc-ico"><span class="msym">assignment</span></span><span class="lc-body"><b>$l</b><small>formulário</small></span><span class="lc-arrow">→</span></a>};
     }
     # iframe genérico só com link
     return qq{<p><a href="$url" target="_blank" rel="noopener">$l ↗</a></p>};
@@ -192,12 +193,12 @@ sub host_of {
 
 sub link_icon {
     my ($u) = @_;
-    return '📝' if $u =~ m{forms\.gle|docs\.google\.com/forms};
-    return '▶️' if $u =~ m{youtube\.com|youtu\.be|globoplay|tvbrasil|video};
-    return '📸' if $u =~ m{instagram\.com};
-    return '🤖' if $u =~ m{chatgpt\.com|chat\.openai|g\.co/gemini|gemini\.google};
-    return '📄' if $u =~ m{drive\.google|docs\.google|\.pdf};
-    return '🔗';
+    return 'assignment' if $u =~ m{forms\.gle|docs\.google\.com/forms};
+    return 'play_circle' if $u =~ m{youtube\.com|youtu\.be|globoplay|tvbrasil|video};
+    return 'photo_camera' if $u =~ m{instagram\.com};
+    return 'smart_toy' if $u =~ m{chatgpt\.com|chat\.openai|g\.co/gemini|gemini\.google};
+    return 'description' if $u =~ m{drive\.google|docs\.google|\.pdf};
+    return 'link';
 }
 
 # linha composta apenas por um link (ou rótulo + link) -> card clicável
@@ -218,8 +219,8 @@ sub link_card_html {
     $title = host_of($url) || 'Abrir link' if $title eq '';
     $title = substr($title, 0, 110) . '…' if length($title) > 112;
     my $sub  = $href =~ m{^https?://} ? host_of($href) : 'página do site';
-    my $icon = $href =~ m{^https?://} ? link_icon($href) : '📄';
-    return qq{<a class="link-card" href="$href"$ext><span class="lc-ico">$icon</span><span class="lc-body"><b>@{[esc($title)]}</b><small>$sub</small></span><span class="lc-arrow">→</span></a>};
+    my $icon = $href =~ m{^https?://} ? link_icon($href) : 'description';
+    return qq{<a class="link-card" href="$href"$ext><span class="lc-ico"><span class="msym">$icon</span></span><span class="lc-body"><b>@{[esc($title)]}</b><small>$sub</small></span><span class="lc-arrow">→</span></a>};
 }
 
 sub inline_fmt {
@@ -392,6 +393,7 @@ sub header_html {
 <label class="nav-toggle" for="nav-toggle" aria-label="Abrir menu"><span></span><span></span><span></span></label>
 <nav class="main" aria-label="Navegação principal">
 $nav
+<button class="theme-toggle" id="theme-toggle" aria-label="Alternar tema" title="Tema claro/escuro"><span class="msym">dark_mode</span></button>
 <div class="searchbox">
 <input id="busca" type="search" placeholder="Buscar página…" aria-label="Buscar páginas do site" autocomplete="off" data-root="$p">
 <div id="busca-resultados" class="search-results" role="listbox"></div>
@@ -457,17 +459,35 @@ sub page_shell {
     my (%a) = @_;
     my $head_extra = $a{head_extra} // '';
     my $body_class = $a{body_class} ? qq{ class="$a{body_class}"} : '';
+    my $canon = $a{canon} // $SITE_URL;
+    my $ogimg = "$SITE_URL/assets/img/og-card.jpg";
     return <<HTML;
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
+<script>(function(){try{var t=localStorage.getItem('tema');if(t==='dark'||t==='light'){document.documentElement.setAttribute('data-theme',t);}}catch(e){}})();</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>$a{title}</title>
 <meta name="description" content="$a{desc}">
+<link rel="canonical" href="$canon">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="$SITE">
+<meta property="og:title" content="$a{title}">
+<meta property="og:description" content="$a{desc}">
+<meta property="og:url" content="$canon">
+<meta property="og:image" content="$ogimg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="$a{title}">
+<meta name="twitter:description" content="$a{desc}">
+<meta name="twitter:image" content="$ogimg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Google+Sans:ital,wght\@0,400;0,500;0,700;1,400&family=Google+Sans+Text:ital,wght\@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD\@20..48,100..700,0..1,-50..200&display=swap">
 <link rel="stylesheet" href="$a{p}assets/style.css">
 <link rel="icon" href="$a{p}assets/img/logo.png">
 $head_extra
@@ -479,6 +499,8 @@ $a{footer}
 <script src="$a{p}assets/search-index.js" defer></script>
 <script src="$a{p}assets/search.js" defer></script>
 <script src="$a{p}assets/reveal.js" defer></script>
+<script src="$a{p}assets/theme.js" defer></script>
+<script src="$a{p}assets/toc.js" defer></script>
 </body>
 </html>
 HTML
@@ -573,6 +595,7 @@ HTML
         title  => esc($title) . " — $SITE",
         desc   => esc($title) . " — material da $SITE: educação em saúde, educação permanente e formação em saúde.",
         p      => $p,
+        canon  => "$SITE_URL/$path/",
         header => header_html($p, $top),
         body   => $body,
         footer => footer_html($p),
