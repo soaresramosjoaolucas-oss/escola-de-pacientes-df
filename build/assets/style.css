@@ -751,3 +751,142 @@ footer.site .fineprint {
   font-size: .78rem; color: #86868b;
   display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
 }
+
+/* ============================================================
+   Boas-vindas — hero acolhedor, cores vivas e toques lúdicos
+   (escopo: body.welcome, para não afetar as outras páginas)
+   ============================================================ */
+
+/* -- hero com aurora animada -- */
+.welcome-hero { position: relative; overflow: hidden; padding: 4rem 0 3.4rem; }
+/* especificidade alta para vencer body[class*="theme-"] .page-hero (--tint) */
+body.welcome .page-hero.welcome-hero {
+  background: linear-gradient(135deg, #e0f6f8 0%, #eafaf0 45%, #fff4e2 100%);
+}
+:root[data-theme="dark"] body.welcome .welcome-hero {
+  background: linear-gradient(135deg, #123b40 0%, #103328 55%, #2e2412 100%);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) body.welcome .welcome-hero {
+    background: linear-gradient(135deg, #123b40 0%, #103328 55%, #2e2412 100%);
+  }
+}
+.welcome-hero > .wrap-narrow { position: relative; z-index: 2; }
+
+/* manchas de cor que flutuam suavemente atrás do texto */
+.welcome-aurora { position: absolute; inset: -30% -10% -30% -10%; z-index: 1; pointer-events: none; }
+.welcome-aurora::before,
+.welcome-aurora::after {
+  content: ''; position: absolute; border-radius: 50%;
+  filter: blur(60px); opacity: .55;
+  animation: welcome-float 14s ease-in-out infinite alternate;
+}
+.welcome-aurora::before {
+  width: 44vw; height: 44vw; max-width: 520px; max-height: 520px;
+  top: -8%; left: -6%;
+  background: radial-gradient(circle at 30% 30%, #12818f, transparent 70%);
+}
+.welcome-aurora::after {
+  width: 40vw; height: 40vw; max-width: 460px; max-height: 460px;
+  bottom: -14%; right: -4%;
+  background: radial-gradient(circle at 60% 60%, #fbbc04, transparent 70%);
+  animation-delay: -6s; animation-duration: 18s;
+}
+
+/* etiqueta "Que bom ter você por aqui!" com mãozinha acenando */
+.welcome-badge {
+  display: inline-flex; align-items: center; gap: .5rem;
+  padding: .45rem 1rem; border-radius: 999px;
+  background: rgba(255, 255, 255, .75);
+  border: 1px solid rgba(18, 129, 143, .25);
+  box-shadow: 0 4px 16px rgba(18, 129, 143, .12);
+  font-size: .9rem; font-weight: 600; color: var(--accent-dark);
+  margin-bottom: 1.1rem; backdrop-filter: blur(4px);
+}
+:root[data-theme="dark"] body.welcome .welcome-badge { background: rgba(30, 31, 32, .55); color: #7fdce6; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) body.welcome .welcome-badge { background: rgba(30, 31, 32, .55); color: #7fdce6; }
+}
+.welcome-badge .wave {
+  display: inline-block; font-size: 1.15rem;
+  transform-origin: 70% 70%;
+  animation: welcome-wave 2.4s ease-in-out infinite;
+}
+
+.welcome-hero h1 {
+  font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.08;
+  letter-spacing: -.02em; max-width: 18ch;
+}
+.welcome-accent {
+  background: linear-gradient(100deg, #12818f 0%, #34a853 55%, #f9ab00 100%);
+  -webkit-background-clip: text; background-clip: text;
+  -webkit-text-fill-color: transparent; color: transparent;
+}
+.welcome-lead {
+  margin-top: 1.1rem; max-width: 60ch;
+  font-size: clamp(1.02rem, 1.4vw, 1.2rem); line-height: 1.6;
+  color: var(--ink);
+}
+
+/* emojis decorativos que sobem e descem de leve */
+.welcome-decor { display: flex; gap: 1rem; margin-top: 1.8rem; font-size: 1.7rem; }
+.welcome-decor span {
+  display: inline-block;
+  animation: welcome-bob 3.6s ease-in-out infinite;
+  filter: drop-shadow(0 6px 10px rgba(0, 0, 0, .12));
+}
+.welcome-decor span:nth-child(2) { animation-delay: .3s; }
+.welcome-decor span:nth-child(3) { animation-delay: .6s; }
+.welcome-decor span:nth-child(4) { animation-delay: .9s; }
+.welcome-decor span:nth-child(5) { animation-delay: 1.2s; }
+
+@keyframes welcome-wave {
+  0%, 60%, 100% { transform: rotate(0deg); }
+  10% { transform: rotate(16deg); } 20% { transform: rotate(-10deg); }
+  30% { transform: rotate(16deg); } 40% { transform: rotate(-6deg); }
+  50% { transform: rotate(12deg); }
+}
+@keyframes welcome-bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-9px); }
+}
+@keyframes welcome-float {
+  0%   { transform: translate(0, 0) scale(1); }
+  100% { transform: translate(4%, 6%) scale(1.12); }
+}
+
+/* -- destaques coloridos e lúdicos nos subtítulos do corpo -- */
+body.welcome article.content h3 {
+  position: relative; padding-left: .9rem;
+}
+body.welcome article.content h3::before {
+  content: ''; position: absolute; left: 0; top: .18em; bottom: .18em;
+  width: 4px; border-radius: 4px;
+  background: linear-gradient(180deg, #12818f, #34a853);
+}
+/* alterna a cor da barrinha para dar variedade e leveza */
+body.welcome article.content h3:nth-of-type(3n+1)::before { background: linear-gradient(180deg, #12818f, #34a853); }
+body.welcome article.content h3:nth-of-type(3n+2)::before { background: linear-gradient(180deg, #1a73e8, #a142f4); }
+body.welcome article.content h3:nth-of-type(3n)::before   { background: linear-gradient(180deg, #f9ab00, #ea4335); }
+
+/* o primeiro bloco (Por onde começar) ganha um cartão colorido de destaque */
+body.welcome article.content > .wrap-narrow > ul:first-of-type {
+  background: linear-gradient(135deg, rgba(18,129,143,.08), rgba(52,168,83,.08));
+  border: 1px solid rgba(18,129,143,.2);
+  border-radius: var(--radius-sm);
+  padding: 1.1rem 1.3rem 1.1rem 2.3rem;
+}
+
+/* cards de link um pouco mais brincalhões ao passar o mouse */
+body.welcome .link-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 10px 26px rgba(18, 129, 143, .18);
+  transform: translateY(-3px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .welcome-badge .wave,
+  .welcome-decor span,
+  .welcome-aurora::before,
+  .welcome-aurora::after { animation: none; }
+}

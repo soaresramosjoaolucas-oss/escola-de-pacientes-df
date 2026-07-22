@@ -568,7 +568,23 @@ JS
     }
     $crumb .= '<span>' . esc($title) . '</span>';
 
-    my $body = <<HTML;
+    my $body;
+    if ($path eq 'boas-vindas') {
+        # hero acolhedor e vibrante — só na página de boas-vindas
+        $body = <<HTML;
+<div class="page-hero welcome-hero"><div class="welcome-aurora" aria-hidden="true"></div><div class="wrap-narrow">
+<nav class="breadcrumb" aria-label="Localização">$crumb</nav>
+<p class="welcome-badge"><span class="wave" aria-hidden="true">👋</span> Que bom ter você por aqui!</p>
+<h1>Boas-vindas à <span class="welcome-accent">Escola de Pacientes</span></h1>
+<p class="welcome-lead">Este é o seu ponto de partida. Aqui você encontra, com calma e no seu ritmo, tudo o que precisa para conhecer o grupo, dar os primeiros passos e começar a participar — sem pressa e sem medo de errar.</p>
+<div class="welcome-decor" aria-hidden="true"><span>🎓</span><span>🔬</span><span>💡</span><span>❤️</span><span>✨</span></div>
+</div></div>
+<article class="content"><div class="wrap-narrow">
+$body_html
+</div></article>
+HTML
+    } else {
+        $body = <<HTML;
 <div class="page-hero"><div class="wrap-narrow">
 <nav class="breadcrumb" aria-label="Localização">$crumb</nav>
 <h1>@{[esc($title)]}</h1>
@@ -577,6 +593,7 @@ JS
 $body_html
 </div></article>
 HTML
+    }
 
     # tema de cor por página
     my %tema = (
@@ -584,7 +601,7 @@ HTML
         'para-estudantes'    => 'theme-azul',
         'para-pesquisadores' => 'theme-roxo',
         'para-profissionais' => 'theme-laranja',
-        'boas-vindas'        => 'theme-teal',
+        'boas-vindas'        => 'theme-teal welcome',
     );
     # confetes de boas-vindas 🎉
     my $extra = $path eq 'boas-vindas'
